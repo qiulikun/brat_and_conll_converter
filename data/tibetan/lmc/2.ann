@@ -1,0 +1,2540 @@
+T1	cv 36 41	ན་_cv
+T2	ls 71 76	ར་_ls
+T3	ww 93 97	།_ww
+T6	gi 177 184	ཀྱི་_gi
+T7	ci 194 200	ནི་_ci
+T8	ld 210 215	ར་_ld
+T9	ww 223 227	།_ww
+T10	gi 244 250	གི་_gi
+T11	cu 261 267	འང་_cu
+T15	ww 393 397	།_ww
+T17	lh 462 467	ར་_lh
+T18	bo 505 512	གིས་_bo
+T19	ls 526 532	དུ་_ls
+T20	ww 550 554	།_ww
+T21	gi 565 571	འི་_gi
+T22	gi 581 587	འི་_gi
+T23	gi 620 627	གྱི་_gi
+T24	ls 644 649	ར་_ls
+T25	lg 658 664	རུ་_lg
+T26	ww 673 677	།_ww
+T29	ww 736 740	།_ww
+T30	gi 764 771	ཀྱི་_gi
+T31	cd 792 798	དང་_cd
+T32	gi 812 818	གི་_gi
+T33	cn 841 847	དེ་_cn
+T34	gi 867 873	འི་_gi
+T35	lt 882 887	ལ་_ls
+T36	ww 897 901	།_ww
+T37	bo 920 928	ཀྱིས་_bo
+T38	ls 936 941	ལ་_ls
+T39	gi 959 965	འི་_gi
+T40	ww 999 1003	།_ww
+T41	ci 1025 1031	ནི་_ci
+T43	ww 1095 1099	།_ww
+T44	gi 1150 1156	གི་_gi
+T45	cn 1179 1185	ནས་_cn
+T46	gi 1198 1205	ཀྱི་_gi
+T47	ls 1219 1224	ལ་_ls
+T48	ww 1242 1246	།_ww
+T49	lt 1271 1277	སུ་_lt
+T50	cn 1298 1304	ནས་_cn
+T51	ww 1313 1317	།_ww
+T52	bo 1332 1340	ཀྱིས་_bo
+T53	gi 1369 1375	གི་_gi
+T54	ls 1384 1389	ར་_ls
+T55	ww 1426 1430	།_ww
+T56	bo 1445 1453	ཀྱིས་_bo
+T57	ls 1491 1496	ལ་_ls
+T58	cn 1506 1512	ཏེ་_cn
+T59	gi 1556 1562	འི་_gi
+T60	lt 1597 1602	ར་_lt
+T61	cn 1611 1617	ནས་_cn
+T62	ww 1626 1630	།_ww
+T63	cu 1645 1652	ཀྱང་_cu
+T64	ww 1679 1683	།_ww
+T65	cu 1693 1699	ཡང་_cu
+T66	ww 1717 1721	།_ww
+T67	bo 1730 1735	ས་_bo
+T68	cu 1736 1743	ཀྱང་_cu
+T69	ls 1789 1794	ལ་_ls
+T70	ww 1811 1815	།_ww
+T71	cd 1829 1835	དང་_cd
+T72	ci 1851 1857	ནི་_ci
+T77	gi 1983 1989	འི་_gi
+T78	ww 2016 2020	།_ww
+T79	bo 2035 2043	ཀྱིས་_bo
+T80	gi 2056 2063	ཀྱི་_gi
+T81	gi 2089 2095	འི་_gi
+T83	gi 2137 2143	གི་_gi
+T84	lt 2175 2181	ཏུ་_lt
+T85	ww 2217 2221	།_ww
+T86	gi 2249 2256	གྱི་_gi
+T87	gi 2275 2281	གི་_gi
+T88	ww 2331 2335	།_ww
+T89	bo 2350 2358	ཀྱིས་_bo
+T90	cn 2380 2386	ནས་_cn
+T93	ww 2467 2471	།_ww
+T94	bo 2488 2493	ས་_bo
+T95	gi 2517 2523	འི་_gi
+T96	ls 2539 2545	དུ་_ls
+T97	ww 2563 2567	།_ww
+T98	bo 2587 2592	ས་_bo
+T99	ww 2628 2632	།_ww
+T100	cd 2647 2653	དང་_cd
+T101	ld 2719 2724	ར་_ld
+T102	ww 2733 2737	།_ww
+T103	bo 2756 2761	ས་_bo
+T106	ba 2809 2814	ས་_ba
+T107	gi 2822 2828	གི་_gi
+T108	gi 2842 2849	ཀྱི་_gi
+T109	ls 2859 2864	ལ་_ls
+T110	gi 2889 2895	འི་_gi
+T111	lt 2907 2913	ཏུ་_lt
+T112	cn 2924 2930	ནས་_cn
+T113	ww 2939 2943	།_ww
+T117	gi 3003 3009	འི་_gi
+T118	lg 3037 3043	དུ་_lg
+T119	ww 3061 3065	།_ww
+T120	bo 3080 3088	ཀྱིས་_bo
+T121	ci 3108 3114	ནི་_ci
+T122	ww 3152 3156	།_ww
+T123	bo 3168 3176	ཀྱིས་_bo
+T124	ww 3233 3237	།_ww
+T125	bo 3252 3260	ཀྱིས་_bo
+T126	cl 3277 3282	ར་_cl
+T127	gi 3294 3301	གྱི་_gi
+T128	gi 3337 3343	འི་_gi
+T129	cu 3359 3366	ཀྱང་_cu
+T130	ld 3386 3391	ར་_ld
+T131	ww 3399 3403	།_ww
+T132	ci 3423 3429	ནི་_ci
+T133	gi 3448 3454	འི་_gi
+T134	ww 3492 3496	།_ww
+T135	gi 3504 3510	འི་_gi
+T138	gi 3568 3574	འི་_gi
+T139	ci 3586 3592	ནི་_ci
+T140	ww 3617 3621	།_ww
+T141	gi 3633 3639	འི་_gi
+T142	gi 3659 3665	འི་_gi
+T143	gi 3673 3679	གི་_gi
+T144	cl 3699 3704	ར་_cl
+T146	gi 3762 3768	འི་_gi
+T147	gi 3781 3788	ཀྱི་_gi
+T148	ls 3799 3805	དུ་_ls
+T149	ww 3823 3827	།_ww
+T150	bo 3839 3847	ཀྱིས་_bo
+T151	cn 3866 3872	ནས་_cn
+T152	ww 3919 3923	།_ww
+T153	bo 3937 3945	ཀྱིས་_bo
+T154	gi 3960 3966	གི་_gi
+T155	ww 4010 4014	།_ww
+T156	cl 4029 4034	ལ་_ls
+T158	gi 4073 4079	འི་_gi
+T159	ww 4103 4107	།_ww
+T160	gi 4122 4129	ཀྱི་_gi
+T161	df 4154 4159	མ་_df
+T162	ld 4168 4173	ར་_ld
+T163	ww 4196 4200	།_ww
+T164	gi 4209 4215	འི་_gi
+T165	gi 4228 4234	གི་_gi
+T166	cn 4255 4262	ཞིང་_cn
+T167	by 4317 4322	ས་_by
+T168	ww 4332 4336	།_ww
+T169	ci 4349 4355	ནི་_ci
+T171	gi 4404 4410	འི་_gi
+T172	ww 4435 4439	།_ww
+T173	cd 4454 4460	དང་_cd
+T174	ld 4513 4519	ཏུ་_ld
+T175	ww 4528 4532	།_ww
+T176	ci 4547 4553	ནི་_ci
+T177	gi 4600 4606	འི་_gi
+T178	ww 4642 4646	།_ww
+T179	ci 4660 4666	ནི་_ci
+T180	gi 4699 4705	འི་_gi
+T181	ww 4728 4732	།_ww
+T182	bo 4746 4754	གྱིས་_bo
+T183	gi 4765 4771	འི་_gi
+T184	ls 4793 4798	ལ་_ls
+T185	cn 4817 4823	ནས་_cn
+T187	ww 4870 4874	།_ww
+T188	cd 4884 4890	དང་_cd
+T189	gi 4930 4937	ཀྱི་_gi
+T190	cl 4945 4950	ལ་_cl
+T191	ww 5023 5027	།_ww
+T192	gi 5042 5049	ཀྱི་_gi
+T193	ci 5071 5077	ནི་_ci
+T194	cd 5099 5105	དང་_cd
+T195	ww 5134 5138	།_ww
+T196	cu 5148 5154	ཡང་_cu
+T202	gi 5279 5285	འི་_gi
+T203	ww 5308 5312	།_ww
+T204	gi 5332 5338	འི་_gi
+T205	gi 5351 5358	གྱི་_gi
+T206	lt 5373 5379	དུ་_ls
+T207	ww 5421 5425	།_ww
+T208	gi 5443 5449	འི་_gi
+T209	cn 5480 5487	སྟེ་_cg
+T210	ls 5513 5518	ལ་_ls
+T211	ww 5536 5540	།_ww
+T213	lt 5564 5570	སུ་_ls
+T214	ci 5582 5588	ནི་_ci
+T215	ww 5630 5634	།_ww
+T216	bo 5649 5657	ཀྱིས་_bo
+T217	gi 5677 5683	གི་_gi
+T218	ls 5693 5698	ལ་_ls
+T219	cn 5709 5715	ནས་_cn
+T220	gi 5748 5754	གི་_gi
+T221	ww 5768 5772	།_ww
+T223	gi 5803 5809	འི་_gi
+T224	ci 5829 5835	ནི་_ci
+T225	gi 5844 5850	འི་_gi
+T226	gi 5859 5866	ཀྱི་_gi
+T227	ww 5894 5898	།_ww
+T228	bo 5911 5918	གིས་_bo
+T229	ls 5938 5943	ལ་_ls
+T230	cn 5953 5959	ཏེ་_cn
+T231	ww 5979 5983	།_ww
+T232	gi 5997 6003	འི་_gi
+T233	ci 6013 6019	ནི་_ci
+T238	gi 6128 6134	འི་_gi
+T239	ww 6179 6183	།_ww
+T240	bo 6222 6230	གྱིས་_bo
+T241	cn 6256 6262	ནས་_cn
+T242	df 6273 6278	མ་_df
+T243	ld 6288 6293	ར་_ld
+T244	ww 6306 6310	།_ww
+T245	gi 6321 6328	གྱི་_gi
+T246	lt 6338 6343	ན་_lt
+T247	ls 6390 6395	ལ་_ls
+T248	cn 6417 6423	ནས་_cn
+T249	ww 6432 6436	།_ww
+T250	bo 6448 6453	ས་_bo
+T251	cn 6481 6487	ནས་_cn
+T252	obj 6488 6494	ཅང་_fz
+T253	df 6495 6501	མི་_df
+T254	ld 6512 6517	ར་_ld
+T255	ww 6526 6530	།_ww
+T256	bo 6563 6571	ཀྱིས་_bo
+T257	gi 6582 6588	གི་_gi
+T258	cn 6605 6611	ནས་_cn
+T259	lt 6618 6623	ར་_ls
+T260	cn 6632 6638	ནས་_cn
+T261	ww 6647 6651	།_ww
+T262	ci 6673 6679	ནི་_ci
+T263	lt 6704 6710	སུ་_ls
+T264	bg 6720 6725	ས་_bg
+T265	cl 6738 6743	དུ_ld
+T266	cu 6744 6750	འང་_cu
+T267	ce 6772 6779	ཞེས་_ce
+T268	ld 6780 6786	སུ་_ld
+T269	ww 6795 6799	།_ww
+T270	cd 6836 6842	དང་_cd
+T271	bo 6850 6855	ས་_bo
+T272	gi 6877 6884	གྱི་_gi
+T273	ww 6910 6914	།_ww
+T274	gi 6937 6943	འི་_gi
+T275	gi 6958 6965	གྱི་_gi
+T276	ci 6979 6985	ནི་_ci
+T277	gi 6999 7006	ཀྱི་_gi
+T278	lt 7019 7025	སུ་_ls
+T279	ww 7041 7045	།_ww
+T280	ci 7061 7067	ནི་_ci
+T282	gi 7119 7125	འི་_gi
+T283	ld 7163 7169	ཏུ་_ld
+T284	ww 7195 7199	།_ww
+T285	bo 7207 7212	ས་_bo
+T286	cn 7232 7238	ནས་_cn
+T287	ls 7248 7254	དུ་_ls
+T288	ld 7265 7270	ར་_ld
+T289	ww 7279 7283	།_ww
+T290	bo 7331 7339	ཀྱིས་_bo
+T291	ww 7356 7360	།_ww
+T292	gi 7404 7410	གི་_gi
+T293	ba 7419 7426	གིས་_ba
+T294	ww 7437 7441	།_ww
+T295	gi 7464 7470	འི་_gi
+T296	cv 7509 7514	ན་_cv
+T298	df 7534 7540	མི་_df
+T299	ww 7549 7553	།_ww
+T300	gi 7594 7601	གྱི་_gi
+T301	fg 7602 7609	ཐོག་_fg
+T302	ls 7620 7625	ར་_ls
+T303	cg 7636 7642	ཏེ་_cg
+T304	gi 7651 7658	ཀྱི་_gi
+T305	ww 7693 7697	།_ww
+T307	gi 7739 7745	འི་_gi
+T308	ww 7806 7810	།_ww
+T309	bo 7846 7851	ས་_bo
+T310	lt 7871 7877	དུ་_ls
+T311	gi 7886 7893	གྱི་_gi
+T312	ww 7916 7920	།_ww
+T313	gi 7931 7938	ཀྱི་_gi
+T314	gi 7965 7971	གི་_gi
+T315	cy 8016 8022	ནམ་_cy
+T316	ww 8030 8034	།_ww
+T317	atr 8050 8059	ཞེས་པ་_ce
+T318	gi 8088 8094	གི་_gi
+T319	cl 8119 8124	ལ་_cl
+T320	ww 8132 8136	།_ww
+T321	atr 8152 8161	ཞེས་པ་_ce
+T322	gi 8189 8195	འི་_gi
+T323	cl 8220 8225	ལ་_cl
+T324	ww 8233 8237	།_ww
+T325	ls 8257 8262	ལ་_ls
+T326	cn 8271 8278	ཞིང་_cn
+T327	ls 8287 8292	ལ་_ls
+T328	ww 8301 8305	།_ww
+T329	bo 8315 8320	ས་_bo
+T330	cn 8335 8341	ནས་_cn
+T332	cl 8369 8374	ར་_cl
+T333	ww 8404 8408	།_ww
+T334	gi 8419 8425	འི་_gi
+T335	bo 8434 8442	ཀྱིས་_bo
+T336	ww 8474 8478	།_ww
+T337	gi 8489 8495	འི་_gi
+T338	bo 8504 8512	ཀྱིས་_bo
+T339	ww 8542 8546	།_ww
+T340	gi 8559 8566	ཀྱི་_gi
+T341	bo 8580 8585	ས་_bo
+T342	ww 8621 8625	།_ww
+T345	ci 8703 8709	ནི་_ci
+T346	ls 8735 8740	ལ་_ls
+T347	df 8752 8757	མ་_df
+T348	cy 8766 8771	ནམ_cy
+T349	ww 8772 8776	།_ww
+T350	ls 8804 8809	ར་_ls
+T351	ci 8820 8826	ནི་_ci
+T352	gi 8839 8846	ཀྱི་_gi
+T353	gi 8861 8867	འི་_gi
+T354	df 8892 8897	མ་_df
+T355	cy 8906 8911	ནམ_cy
+T356	ww 8912 8916	།_ww
+T357	ci 8927 8933	ནི་_ci
+T358	cn 8950 8957	ཞིང་_cn
+T359	cc 8968 8974	དང་_cc
+T360	gi 8984 8990	འི་_gi
+T361	ww 9019 9023	།_ww
+T362	gi 9036 9042	འི་_gi
+T363	bo 9062 9067	ས་_bo
+T364	cn 9088 9094	ནས་_cn
+T365	ww 9134 9138	།_ww
+T366	bo 9162 9167	ས་_bo
+T367	cn 9190 9196	ནས་_cn
+T368	gi 9204 9211	ཀྱི་_gi
+T369	cu 9220 9226	འང་_cu
+T370	ww 9242 9246	།_ww
+T371	bo 9272 9279	གིས་_bo
+T372	gi 9290 9296	གི་_gi
+T373	ls 9306 9311	ར་_ls
+T374	ww 9359 9363	།_ww
+T375	gi 9374 9380	འི་_gi
+T376	lh 9392 9397	ར་_lh
+T377	ww 9437 9441	།_ww
+T378	ww 9489 9493	།_ww
+T379	ls 9503 9508	ལ་_ls
+T380	ci 9554 9560	ནི་_ci
+T381	lh 9580 9586	དུ་_lh
+T382	gi 9596 9602	འི་_gi
+T383	gi 9616 9623	གྱི་_gi
+T384	ld 9635 9640	ར་_ld
+T385	ww 9649 9653	།_ww
+T386	cn 9692 9698	ཏེ་_cn
+T387	ls 9717 9723	སུ་_ls
+T388	ww 9732 9736	།_ww
+T389	ba 9758 9765	ཡིས་_bo
+T390	cn 9774 9781	སྟེ་_cg
+T391	lt 9795 9801	རུ་_lt
+T392	ww 9809 9813	།_ww
+T393	ls 9839 9844	ར་_ls
+T394	gi 9855 9861	འི་_gi
+T395	cd 9871 9877	དང་_cd
+T396	by 9888 9893	ས་_by
+T397	gi 9904 9910	འི་_gi
+T398	gi 9936 9942	འི་_gi
+T399	lt 9952 9958	སུ་_lt
+T401	ld 9984 9990	དུ་_ld
+T402	ww 9998 10002	།_ww
+T404	lh 10035 10041	སུ་_lh
+T405	ls 10067 10072	ལ་_ls
+T406	lg 10082 10087	ར་_lg
+T407	ls 10095 10101	དུ་_ls
+T408	ww 10108 10112	།_ww
+T409	gi 10136 10142	འི་_gi
+T410	cl 10152 10157	ལ་_cl
+T411	gi 10181 10187	འི་_gi
+T412	ls 10195 10201	དུ་_ls
+T413	ww 10221 10225	།_ww
+T414	ls 10235 10240	ལ་_ls
+T415	gi 10251 10257	འི་_gi
+T417	gi 10300 10306	འི་_gi
+T418	bo 10319 10327	ཀྱིས་_bo
+T419	ww 10336 10340	།_ww
+T420	gi 10360 10366	འི་_gi
+T421	jg 10374 10380	ནས་_cj
+T422	ls 10412 10418	དུ་_ls
+T423	lh 10434 10440	ཏུ་_lh
+T424	ls 10467 10472	ར་_ls
+T425	ww 10490 10494	།_ww
+T426	bo 10502 10507	ས་_bo
+T427	ls 10515 10520	ལ་_ls
+T428	ww 10574 10578	།_ww
+T429	gi 10609 10615	འི་_gi
+T430	gi 10624 10630	ཡི་_gi
+T431	cb 10650 10656	ལས་_cb
+T432	cd 10672 10678	དང་_cd
+T433	gi 10686 10693	གྱི་_gi
+T434	ld 10734 10739	ལ་_ld
+T435	ww 10756 10760	།_ww
+T436	ld 10777 10782	ར་_ld
+T437	cn 10791 10797	ནས་_cn
+T438	cn 10817 10824	སྟེ་_cn
+T439	gi 10832 10838	འི་_gi
+T440	ls 10847 10852	ལ་_ls
+T441	ww 10860 10864	།_ww
+T442	gi 10877 10883	གི་_gi
+T443	ci 10907 10913	ནི་_ci
+T444	cd 10935 10941	དང་_cd
+T445	ld 10951 10957	ཏུ་_ld
+T446	ww 10984 10988	།_ww
+T447	bo 11019 11026	གིས་_bo
+T448	ww 11093 11097	།_ww
+T449	bo 11111 11118	གིས་_bo
+T450	cn 11136 11143	ཞིང་_cn
+T451	gi 11153 11159	འི་_gi
+T452	gi 11170 11176	འི་_gi
+T453	lt 11184 11190	དུ་_ls
+T454	cn 11217 11223	ནས་_cn
+T455	ww 11239 11243	།_ww
+T457	ci 11276 11282	ནི་_ci
+T458	df 11301 11306	མ་_df
+T459	cl 11316 11321	ར་_ld
+T460	ww 11351 11355	།_ww
+T461	ww 11358 11362	༼_ww
+T462	ww 11382 11386	༽_ww
+T463	cm 11389 11395	འམ་_cm
+T464	ww 11396 11400	༼_ww
+T466	ce 11427 11434	ཞེས་_ce
+T467	ci 11444 11450	ནི་_ci
+T468	gi 11471 11478	ཀྱི་_gi
+T469	cd 11487 11493	དང་_cd
+T470	gi 11503 11510	ཀྱི་_gi
+T471	gi 11519 11525	འི་_gi
+T472	gi 11544 11550	འི་_gi
+T473	ww 11590 11594	།_ww
+T474	cl 11612 11617	ལ་_cl
+T476	ce 11659 11666	ཅེས་_ce
+T477	cu 11667 11674	ཀྱང་_cu
+T478	ww 11681 11685	།_ww
+T479	gi 11700 11706	གི་_gi
+T480	gi 11731 11737	གི་_gi
+T482	gi 11762 11768	འི་_gi
+T483	ci 11794 11800	ནི་_ci
+T484	gi 11809 11816	ཀྱི་_gi
+T485	gi 11827 11833	འི་_gi
+T486	ww 11861 11865	།_ww
+T487	pre 28 35	བྱས་_vt
+T488	obj 15 27	རྐང་རྟེན་_nn
+T489	sub 0 7	རྡོ་_nn
+T490	atr 8 14	དེ་_rz
+R1	APP Arg1:T489 Arg2:T490	
+T491	adv 42 63	བདེ་བླག་_nn ངང་ནས་_dx
+T492	obj 64 70	ཕ་ཁ_nn
+T493	hed 77 85	ལྡིང་_vt
+T494	com 86 92	ཐུབ_vu
+R2	SBV Arg1:T487 Arg2:T489	
+R3	VOB Arg1:T487 Arg2:T488	
+R4	cv Arg1:T487 Arg2:T1	
+R5	ADV Arg1:T493 Arg2:T487	
+R6	ADV Arg1:T493 Arg2:T491	
+R7	VOB Arg1:T493 Arg2:T492	
+R8	ls Arg1:T492 Arg2:T2	
+R9	CMP Arg1:T493 Arg2:T494	
+R10	PUS Arg1:T493 Arg2:T3	
+T495	hed 201 209	ཟིན་པ_vi
+T5	sub 185 193	གྲངས་_nn
+R11	SBV Arg1:T495 Arg2:T5	
+R14	ci Arg1:T5 Arg2:T7	
+R15	ld Arg1:T495 Arg2:T8	
+T496	com 216 222	དཀའ_as
+R16	CMP Arg1:T495 Arg2:T496	
+R17	PUS Arg1:T495 Arg2:T9	
+T499	atr 369 375	དེ་_rz
+T500	hed 376 385	ཡིན་པ་_vj
+T501	com 386 392	འདྲ_ub
+R23	CMP Arg1:T500 Arg2:T501	
+T502	sub 251 260	འདུན་མ_nn
+T503	atr 230 243	རྡོ་ཕ་བོང་_nn
+R24	ATT Arg1:T502 Arg2:T503	
+R25	gi Arg1:T503 Arg2:T10	
+R26	cu Arg1:T502 Arg2:T11	
+R28	PUS Arg1:T500 Arg2:T15	
+T13	hed 533 541	བཅུག་_vt
+T16	atr 439 445	དེ་_rz
+T504	rz 497 504	ཞིག་_rz
+T505	obj 513 525	འཁྱག་སྒམ་_nn
+T506	com 542 549	སོང་_vu
+R31	bo Arg1:T504 Arg2:T18	
+R32	IOB Arg1:T13 Arg2:T505	
+R33	ls Arg1:T505 Arg2:T19	
+R34	CMP Arg1:T13 Arg2:T506	
+R35	PUS Arg1:T13 Arg2:T20	
+T507	sub 588 598	ན་གཞོན་_nn
+T508	atr 572 580	སྡེ་བ_nn
+T509	atr 557 564	ང་ཚོ_rr
+T510	atr 599 606	འགའ་_mg
+T511	obj 628 637	ཕ་བོང་_nn
+T512	atr 607 619	དྲིན་ཆེན་_nn
+T513	atr 638 643	དེ_rz
+T514	pre 650 657	བལྟ་_vt
+T515	hed 665 672	སོང་_vi
+R36	IOB Arg1:T514 Arg2:T511	
+R37	APP Arg1:T511 Arg2:T513	
+R38	ls Arg1:T513 Arg2:T24	
+R39	ADV Arg1:T515 Arg2:T514	
+R40	lg Arg1:T514 Arg2:T25	
+R41	ATT Arg1:T511 Arg2:T512	
+R42	gi Arg1:T512 Arg2:T23	
+R43	SBV Arg1:T515 Arg2:T507	
+R44	QUN Arg1:T507 Arg2:T510	
+R45	PUS Arg1:T515 Arg2:T26	
+R46	ATT Arg1:T507 Arg2:T508	
+R47	ATT Arg1:T508 Arg2:T509	
+R48	gi Arg1:T509 Arg2:T21	
+R49	gi Arg1:T508 Arg2:T22	
+T27	sub 713 720	འོད་_nn
+T516	obj 721 728	གནམ་_nn
+T517	hed 729 735	ཡིན_vj
+R50	SBV Arg1:T517 Arg2:T27	
+R51	TPS Arg1:T517 Arg2:T516	
+R52	PUS Arg1:T517 Arg2:T29	
+T518	hed 888 896	སླེབས_vi
+T519	sub 743 751	ང་ཚོ་_rr
+T520	atr 752 763	རྡོ་སྐས་_nn
+T521	obj 772 781	ཐེམ་པ་_nn
+T522	atr 782 791	རེ་རེ་_qg
+T523	atr 799 811	ཀྱག་ཀྱོག་_as
+T524	obj 819 829	རྐང་ལམ་_nn
+T525	pre 830 840	བརྒྱུད་_vt
+T526	adv 848 855	མཐར་_dp
+T527	atr 856 866	རྫོང་རི_ns
+T528	adv 874 881	རྩེ་_nf
+R54	SBV Arg1:T525 Arg2:T519	
+R55	VOB Arg1:T525 Arg2:T524	
+R58	gi Arg1:T520 Arg2:T30	
+R59	QUN Arg1:T521 Arg2:T522	
+R60	cd Arg1:T522 Arg2:T31	
+R61	ATT Arg1:T524 Arg2:T523	
+R62	gi Arg1:T523 Arg2:T32	
+R56	COO Arg1:T524 Arg2:T521	
+R57	ATT Arg1:T521 Arg2:T520	
+R63	cn Arg1:T525 Arg2:T33	
+R64	VV Arg1:T518 Arg2:T525	
+R65	ADV Arg1:T518 Arg2:T526	
+R66	ADV Arg1:T518 Arg2:T528	
+R67	lt Arg1:T528 Arg2:T35	
+R68	ATT Arg1:T528 Arg2:T527	
+R69	gi Arg1:T527 Arg2:T34	
+T529	hed 982 990	བཏགས་_vt
+T530	sub 904 919	བོད་མི་རིགས་_nn
+T531	obj 929 935	དེ་_rz
+T532	atr 942 958	རྨད་དུ་བྱུང་བ_as
+T533	obj 966 973	མིང་_nn
+T534	rz 974 981	ཞིག་_rz
+T535	com 991 998	འདུག_vu
+R71	SBV Arg1:T529 Arg2:T530	
+R72	bo Arg1:T530 Arg2:T37	
+R73	IOB Arg1:T529 Arg2:T531	
+R74	ls Arg1:T531 Arg2:T38	
+R75	ATT Arg1:T533 Arg2:T532	
+R76	gi Arg1:T532 Arg2:T39	
+R77	VOB Arg1:T529 Arg2:T533	
+R78	RAD Arg1:T533 Arg2:T534	
+R79	CMP Arg1:T529 Arg2:T535	
+T538	sub 1006 1016	མེ་ཏོག་_nn
+T539	atr 1017 1024	འདི་_rz
+R81	APP Arg1:T538 Arg2:T539	
+T540	adv 1032 1040	ངོ་མ་_dx
+T542	rz 1080 1087	ཞིག་_rz
+T543	hed 1088 1094	རེད_ud
+R82	TPC Arg1:T543 Arg2:T538	
+R86	PUS Arg1:T543 Arg2:T43	
+T536	hed 1225 1234	འཕྲོས་_vi
+T537	sub 1102 1112	ཉི་ཐིག་_nn
+T541	adv 1121 1135	འཇམ་ཅག་གེར་_zt
+T544	pre 1169 1178	བརྟོལ་_vt
+T545	obj 1157 1168	ཤེལ་སྒོ་_nn
+T546	atr 1136 1149	སྒེའུ་ཁུང་_nn
+T547	obj 1206 1218	མདུན་ཅོག་_nn
+T548	atr 1186 1197	བཀྲ་ཤིས་_nr
+T549	rz 1113 1120	ཅིག་_rz
+R87	RAD Arg1:T537 Arg2:T549	
+R88	SBV Arg1:T544 Arg2:T537	
+R89	ADV Arg1:T544 Arg2:T541	
+R90	VOB Arg1:T544 Arg2:T545	
+R91	ATT Arg1:T545 Arg2:T546	
+R92	gi Arg1:T546 Arg2:T44	
+R93	cn Arg1:T544 Arg2:T45	
+T550	com 1235 1241	ཡོད_ud
+R94	VV Arg1:T536 Arg2:T544	
+R95	IOB Arg1:T536 Arg2:T547	
+R96	ls Arg1:T547 Arg2:T47	
+R97	ATT Arg1:T547 Arg2:T548	
+R98	gi Arg1:T548 Arg2:T46	
+R99	CMP Arg1:T536 Arg2:T550	
+R100	PUS Arg1:T536 Arg2:T48	
+T551	hed 1305 1312	འདུག_vc
+T552	pre 1291 1297	ཧད་_vi
+T553	adv 1278 1290	ཀྲོང་ངེར་_zt
+T554	adv 1256 1270	རྐུབ་སྟེགས་_nn
+T555	sub 1249 1255	ཁོ་_rr
+R103	lt Arg1:T554 Arg2:T49	
+R101	SBV Arg1:T552 Arg2:T555	
+R102	ADV Arg1:T552 Arg2:T554	
+R104	ADV Arg1:T552 Arg2:T553	
+R105	cn Arg1:T552 Arg2:T50	
+R106	VV Arg1:T551 Arg2:T552	
+R107	PUS Arg1:T551 Arg2:T51	
+T556	hed 1403 1409	ཞུ་_vt
+T557	obj 1390 1402	བཀའ་དྲིན་_nn
+T558	obj 1376 1383	ཉི་མ_nn
+T559	atr 1357 1368	མགོ་ཐོག་_nn
+T560	adv 1341 1349	སེམས་_nn
+T561	jg 1350 1356	ནས་_jg
+T562	sub 1320 1331	བཀྲ་ཤིས་_nr
+R108	SBV Arg1:T556 Arg2:T562	
+R109	bo Arg1:T562 Arg2:T52	
+R110	VOB Arg1:T556 Arg2:T557	
+R111	IOB Arg1:T556 Arg2:T558	
+R112	ADV Arg1:T556 Arg2:T560	
+R113	jg Arg1:T560 Arg2:T561	
+R114	ATT Arg1:T558 Arg2:T559	
+R115	gi Arg1:T559 Arg2:T53	
+R116	ls Arg1:T558 Arg2:T54	
+T563	com 1410 1418	བཞིན་_us
+T564	com 1419 1425	ཡོད_ud
+R117	TEN Arg1:T556 Arg2:T563	
+R118	CMP Arg1:T556 Arg2:T564	
+R119	PUS Arg1:T556 Arg2:T55	
+T565	hed 1618 1625	བསྡད_vi
+T566	pre 1603 1610	ལངས་_vi
+T567	pre 1497 1505	བཙིར་_vt
+T568	sub 1433 1444	བཀྲ་ཤིས་_nr
+T569	obj 1454 1464	ཀོ་ཁུག་_nn
+T570	atr 1465 1474	ནག་པོ་_as
+T571	rz 1475 1482	ཞིག་_rz
+T572	obj 1483 1490	མཆན་_nn
+R120	SBV Arg1:T567 Arg2:T568	
+R121	VOB Arg1:T567 Arg2:T569	
+R122	IOB Arg1:T567 Arg2:T572	
+R123	bo Arg1:T568 Arg2:T56	
+R124	ATT Arg1:T569 Arg2:T570	
+R125	RAD Arg1:T570 Arg2:T571	
+R126	ls Arg1:T572 Arg2:T57	
+R127	cn Arg1:T567 Arg2:T58	
+R132	VV Arg1:T565 Arg2:T566	
+R133	cn Arg1:T566 Arg2:T61	
+R134	VV Arg1:T565 Arg2:T567	
+R135	PUS Arg1:T565 Arg2:T62	
+T575	hed 1672 1678	ཡིན_vj
+T576	obj 1653 1663	ལས་ཀ་བ་_nn
+T577	sub 1633 1644	བཀྲ་ཤིས་_nr
+T578	rz 1664 1671	ཞིག་_rz
+R136	TPC Arg1:T575 Arg2:T577	
+R137	cu Arg1:T577 Arg2:T63	
+R138	TPS Arg1:T575 Arg2:T576	
+R139	RAD Arg1:T576 Arg2:T578	
+R140	PUS Arg1:T575 Arg2:T64	
+T579	hed 1711 1716	ཆེ_ad
+T580	obj 1700 1710	བྲེལ་བ་_nn
+T581	sub 1686 1692	ཁོ་_rr
+R141	SBV Arg1:T579 Arg2:T581	
+R142	VOB Arg1:T579 Arg2:T580	
+R143	cu Arg1:T581 Arg2:T65	
+R144	PUS Arg1:T579 Arg2:T66	
+T582	hed 1795 1803	སྒུག་_vi
+T583	com 1804 1810	ཡོད_ud
+T584	sub 1724 1729	ཁོ_rr
+T585	obj 1744 1769	སྤྱི་སྤྱིད་ རླངས་འཁོར་_nz
+T586	atr 1770 1788	ཨང་_nn ༣༤_mj པ་_hz
+R145	ATT Arg1:T585 Arg2:T586	
+R146	SBV Arg1:T582 Arg2:T584	
+R147	bo Arg1:T584 Arg2:T67	
+R148	cu Arg1:T67 Arg2:T68	
+R149	VOB Arg1:T582 Arg2:T585	
+R150	ls Arg1:T586 Arg2:T69	
+R151	CMP Arg1:T582 Arg2:T583	
+R152	PUS Arg1:T582 Arg2:T70	
+T74	obj 1990 2001	རྩེད་ཆས་_nn
+T75	atr 2002 2008	ཙམ་_dc
+T76	hed 2009 2015	ཡིན_vj
+T587	sub 1836 1850	གྲིབ་གཟུགས་_nn
+T588	sub 1818 1828	ཉི་འོད་_nn
+R157	ci Arg1:T587 Arg2:T72	
+R160	PUS Arg1:T76 Arg2:T78	
+T589	hed 2191 2200	སྒྲུབ་_vt
+T590	adv 2144 2155	ལས་ཁུངས་_nn
+T82	atr 2096 2136	བོད་_ne ཀྱི་_gi རིག་གནས་_nn ཞིབ་འཇུག་_nv
+R163	ATT Arg1:T590 Arg2:T82	
+T592	atr 2156 2166	ཆེན་པོ་_as
+R164	ATT Arg1:T590 Arg2:T592	
+T593	rz 2167 2174	ཞིག་_rz
+R166	lt Arg1:T593 Arg2:T84	
+T594	obj 2182 2190	བྱ་བ་_nn
+T595	com 2201 2209	བཞིན་_us
+T596	com 2210 2216	ཡོད_ud
+R167	TEN Arg1:T589 Arg2:T595	
+R168	CMP Arg1:T589 Arg2:T596	
+R169	PUS Arg1:T589 Arg2:T85	
+T597	sub 2023 2034	བཀྲ་ཤིས་_nr
+T598	atr 2044 2055	ནང་ལོགས་_nf
+R171	gi Arg1:T598 Arg2:T80	
+R172	gi Arg1:T82 Arg2:T83	
+R173	VOB Arg1:T589 Arg2:T594	
+R174	ADV Arg1:T589 Arg2:T590	
+R175	SBV Arg1:T589 Arg2:T597	
+R176	bo Arg1:T597 Arg2:T79	
+T599	hed 2301 2314	གསེག་འཕྲོ་_vt
+T600	sub 2224 2234	ཉི་འོད་_nn
+T601	atr 2257 2267	ཐོག་ཁང་_nn
+T602	atr 2235 2248	གྲོང་ཁྱེར་_nn
+T603	adv 2282 2293	བར་གསེང་_nf
+T604	atr 2268 2274	དག་_qj
+T605	jg 2294 2300	ནས་_jg
+R177	SBV Arg1:T599 Arg2:T600	
+R178	ATT Arg1:T601 Arg2:T602	
+R179	gi Arg1:T602 Arg2:T86	
+R180	ATT Arg1:T601 Arg2:T604	
+R182	ATT Arg1:T603 Arg2:T601	
+R183	jg Arg1:T603 Arg2:T605	
+R184	ADV Arg1:T599 Arg2:T603	
+T606	com 2315 2322	བྱས་_vu
+T607	com 2323 2330	ཡོང་_us
+R185	CMP Arg1:T599 Arg2:T606	
+R186	TEN Arg1:T599 Arg2:T607	
+R187	PUS Arg1:T599 Arg2:T88	
+T608	hed 2459 2466	བལྟས_vt
+T609	sub 2338 2349	བཀྲ་ཤིས་_nr
+T610	pre 2370 2379	བཏེགས་_vt
+T611	obj 2359 2369	མགོ་བོ་_nn
+R188	SBV Arg1:T610 Arg2:T609	
+R189	bo Arg1:T609 Arg2:T89	
+R190	VOB Arg1:T610 Arg2:T611	
+R191	cn Arg1:T610 Arg2:T90	
+R192	VV Arg1:T608 Arg2:T610	
+R194	PUS Arg1:T608 Arg2:T93	
+T92	hed 2546 2554	ཁྲིད་_vt
+T612	obj 2524 2538	གཞུང་ལས་ཁང་_nn
+T613	obj 2494 2503	བུ་མོ་_nn
+T614	atr 2504 2510	དེ་_rz
+T615	atr 2511 2516	ཁོ_rr
+T616	sub 2474 2487	སྒོ་སྲུང་བ_nn
+T617	com 2555 2562	ཡོང་_us
+R195	SBV Arg1:T92 Arg2:T616	
+R196	bo Arg1:T616 Arg2:T94	
+R197	VOB Arg1:T92 Arg2:T613	
+R198	APP Arg1:T613 Arg2:T614	
+R199	ATT Arg1:T612 Arg2:T615	
+R200	IOB Arg1:T92 Arg2:T612	
+R201	ls Arg1:T612 Arg2:T96	
+R202	TEN Arg1:T92 Arg2:T617	
+R203	PUS Arg1:T92 Arg2:T97	
+T618	hed 2602 2610	འཚོལ་_vt
+T619	com 2611 2619	བཞིན་_us
+T620	com 2620 2627	འདུག_vc
+T621	atr 2580 2586	འདི_rz
+T622	sub 2570 2579	བུ་མོ་_nn
+R204	SBV Arg1:T618 Arg2:T622	
+T623	obj 2593 2601	ཁྱོད་_rr
+R205	VOB Arg1:T618 Arg2:T623	
+R206	APP Arg1:T622 Arg2:T621	
+R207	bo Arg1:T621 Arg2:T98	
+R208	TEN Arg1:T618 Arg2:T619	
+R209	CMP Arg1:T618 Arg2:T620	
+R210	PUS Arg1:T618 Arg2:T99	
+T624	com 2725 2732	གྱུར_vi
+T625	hed 2711 2718	ཧད་པ_vi
+T627	adv 2703 2710	ཅུང་_dc
+T628	sub 2654 2663	བུ་མོ་_nn
+T629	sub 2635 2646	བཀྲ་ཤིས་_nr
+R211	COO Arg1:T628 Arg2:T629	
+R212	cd Arg1:T629 Arg2:T100	
+T630	atr 2664 2670	དེ་_rz
+T631	atr 2671 2679	གཉིས་_mj
+R213	QUN Arg1:T630 Arg2:T631	
+R214	APP Arg1:T628 Arg2:T630	
+R215	SBV Arg1:T625 Arg2:T628	
+R217	ADV Arg1:T625 Arg2:T627	
+R218	ld Arg1:T625 Arg2:T101	
+R219	CMP Arg1:T625 Arg2:T624	
+R220	PUS Arg1:T625 Arg2:T102	
+T626	lt 2696 2702	ནས་_jg
+T632	adv 2680 2695	རང་རང་_rz ས་_nn
+R216	ADV Arg1:T625 Arg2:T632	
+R221	lt Arg1:T632 Arg2:T626	
+T104	sub 2740 2749	བུ་མོ་_nn
+T105	adv 2801 2808	ལག་པ_nn
+T633	atr 2829 2841	སྟོད་གོས་_nn
+T634	pre 2865 2872	རེག་_vt
+T635	com 2873 2881	བཞིན་_us
+T636	obj 2850 2858	འདབས་_nf
+T638	atr 2882 2888	སྒོ_nn
+T639	adv 2896 2906	ནང་རོལ་_nf
+T640	pre 2914 2923	འགྲེང་_vi
+T641	hed 2931 2938	བསྡད_vi
+T642	atr 2750 2755	དེ_rz
+R222	bo Arg1:T642 Arg2:T103	
+R223	APP Arg1:T104 Arg2:T642	
+R224	SBV Arg1:T634 Arg2:T104	
+R226	ADV Arg1:T634 Arg2:T105	
+R227	ba Arg1:T105 Arg2:T106	
+T643	atr 2815 2821	རང་_rr
+R228	TEN Arg1:T634 Arg2:T635	
+R229	VV Arg1:T641 Arg2:T634	
+R232	gi Arg1:T638 Arg2:T110	
+R233	VV Arg1:T641 Arg2:T640	
+R234	cn Arg1:T640 Arg2:T112	
+R235	lt Arg1:T639 Arg2:T111	
+R236	ATT Arg1:T633 Arg2:T643	
+R237	gi Arg1:T643 Arg2:T107	
+R239	gi Arg1:T633 Arg2:T108	
+R240	ls Arg1:T636 Arg2:T109	
+R241	PUS Arg1:T641 Arg2:T113	
+T644	hed 3044 3053	ཡོང་བ་_vi
+T645	pre 3029 3036	ལེན་_vt
+T115	obj 3010 3021	སྒོར་མོ་_nn
+T116	atr 3022 3028	དེ་_rz
+T646	sub 2946 2951	ང་_rr
+R242	SBV Arg1:T644 Arg2:T646	
+R245	APP Arg1:T115 Arg2:T116	
+R246	VOB Arg1:T645 Arg2:T115	
+R247	ADV Arg1:T644 Arg2:T645	
+R248	lg Arg1:T645 Arg2:T118	
+T647	com 3054 3060	ཡིན_ud
+R249	CMP Arg1:T644 Arg2:T647	
+R250	PUS Arg1:T644 Arg2:T119	
+T648	pre 3135 3144	ཡིན་པ་_vj
+T649	hed 3145 3151	ཚོར_vt
+T650	adv 3089 3100	མྱུར་དུ་_dp
+T651	sub 3101 3107	དེ་_rz
+T652	obj 3115 3126	གོ་འཛོལ་_nn
+T653	rz 3127 3134	ཞིག་_rz
+R251	TPC Arg1:T648 Arg2:T651	
+R252	ci Arg1:T651 Arg2:T121	
+R253	TPS Arg1:T648 Arg2:T652	
+R254	RAD Arg1:T652 Arg2:T653	
+T654	sub 3068 3079	བཀྲ་ཤིས་_nr
+R255	SBV Arg1:T649 Arg2:T654	
+R256	ADV Arg1:T649 Arg2:T650	
+R257	bo Arg1:T654 Arg2:T120	
+R258	VOB Arg1:T649 Arg2:T648	
+R259	PUS Arg1:T649 Arg2:T122	
+T655	hed 3198 3206	འཚོལ་_vt
+T656	obj 3186 3197	བཀྲ་ཤིས་_nr
+T657	obj 3177 3185	ཨ་ཁུ་_nn
+T658	sub 3159 3167	ཁྱོད་_rr
+T659	com 3207 3215	བཞིན་_us
+T660	com 3216 3225	ཡོད་པ་_vc
+T661	com 3226 3232	འདྲ_ub
+R260	SBV Arg1:T655 Arg2:T658	
+R261	TEN Arg1:T655 Arg2:T659	
+R262	VOB Arg1:T655 Arg2:T656	
+R263	bo Arg1:T658 Arg2:T123	
+R264	APP Arg1:T656 Arg2:T657	
+R265	CMP Arg1:T655 Arg2:T660	
+R266	CMP Arg1:T655 Arg2:T661	
+R267	PUS Arg1:T655 Arg2:T124	
+T662	pre 3367 3376	རྟོགས་_vt
+T663	hed 3392 3398	སྙམ_vt
+T664	com 3377 3385	ཐུབ་པ_vu
+T665	pre 3312 3320	ཞན་པ་_as
+T668	obj 3302 3311	ནུས་པ་_nn
+T669	atr 3283 3293	འཆར་ཡན་_nn
+T670	adv 3344 3351	མིང་_nn
+T671	jg 3352 3358	ལས་_jg
+T672	atr 3321 3336	བོད་པ་_nn ཚོ_qj
+T673	sub 3240 3251	བཀྲ་ཤིས་_nr
+R268	SBV Arg1:T663 Arg2:T673	
+R269	bo Arg1:T673 Arg2:T125	
+T666	sub 3261 3276	བོད་པ་_nn ཚོ_qj
+R270	SBV Arg1:T665 Arg2:T666	
+R271	VOB Arg1:T665 Arg2:T668	
+R272	cl Arg1:T666 Arg2:T126	
+R273	ATT Arg1:T668 Arg2:T669	
+R274	gi Arg1:T669 Arg2:T127	
+R275	VOB Arg1:T662 Arg2:T665	
+R276	CMP Arg1:T662 Arg2:T664	
+R277	ADV Arg1:T662 Arg2:T670	
+R278	ATT Arg1:T670 Arg2:T672	
+R279	gi Arg1:T672 Arg2:T128	
+R280	jg Arg1:T670 Arg2:T671	
+R281	ld Arg1:T664 Arg2:T130	
+R282	VOB Arg1:T663 Arg2:T662	
+R283	PUS Arg1:T663 Arg2:T131	
+T667	hed 3485 3491	ཡིན_vj
+T674	atr 3465 3476	ཆུང་ཆུང་_as
+T675	rz 3477 3484	ཞིག་_rz
+T676	obj 3455 3464	མགོ་བ་_nn
+T678	sub 3406 3422	བཀྲ་ཤིས་ཁ་ཆེ་_nr
+R284	TPC Arg1:T667 Arg2:T678	
+R285	TPS Arg1:T667 Arg2:T676	
+R286	ci Arg1:T678 Arg2:T132	
+R289	ATT Arg1:T676 Arg2:T674	
+R290	RAD Arg1:T674 Arg2:T675	
+R291	PUS Arg1:T667 Arg2:T134	
+T679	sub 3575 3585	ཉེས་ཅན་_nn
+T136	atr 3526 3567	སྤྲོ་སྣང་_nn འཇོམ་མཁན་_nn གྱི་_gi ཐད་ཀ_nn
+T137	atr 3511 3518	ལས་ཀ_nn
+T680	atr 3499 3503	ང_rr
+T681	gi 3519 3525	འི་_gi
+R292	ATT Arg1:T137 Arg2:T680	
+R293	gi Arg1:T680 Arg2:T135	
+R294	ATT Arg1:T136 Arg2:T137	
+R295	gi Arg1:T137 Arg2:T681	
+R296	ATT Arg1:T679 Arg2:T136	
+R297	gi Arg1:T136 Arg2:T138	
+R298	ci Arg1:T679 Arg2:T139	
+T682	hed 3610 3616	ཡིན_vj
+T683	obj 3593 3609	བཀྲ་ཤིས་ཁ་ཆེ་_nr
+R299	TPC Arg1:T682 Arg2:T679	
+R300	TPS Arg1:T682 Arg2:T683	
+R301	PUS Arg1:T682 Arg2:T140	
+T684	pre 3716 3726	ཐོགས་པ་_vt
+T685	obj 3705 3715	གཤོག་པ་_nn
+T686	sub 3680 3692	ཚིག་འབྲུ་_nn
+T687	atr 3693 3698	དེ_rz
+T688	atr 3640 3645	ཁ་_nn
+T689	atr 3666 3672	ནང་_nf
+T690	atr 3646 3652	ཆེ་_as
+T691	atr 3653 3658	དེ_rz
+T692	atr 3624 3632	མགོ་པ_nn
+R302	ATT Arg1:T688 Arg2:T692	
+R303	gi Arg1:T692 Arg2:T141	
+R304	ATT Arg1:T688 Arg2:T690	
+R306	gi Arg1:T691 Arg2:T142	
+R308	gi Arg1:T689 Arg2:T143	
+R310	APP Arg1:T686 Arg2:T687	
+R312	VOB Arg1:T684 Arg2:T685	
+R313	cl Arg1:T687 Arg2:T144	
+T693	com 3727 3735	བཞིན་_ub
+R314	RAD Arg1:T684 Arg2:T693	
+T694	obj 3789 3798	རྣ་ལམ་_nn
+T695	atr 3769 3780	བཀྲ་ཤིས་_nr
+T696	hed 3806 3814	འཕུར་_vi
+T697	com 3815 3822	ཡོང་_vu
+R318	gi Arg1:T695 Arg2:T147	
+R319	ATT Arg1:T694 Arg2:T695	
+R320	IOB Arg1:T696 Arg2:T694	
+R321	ls Arg1:T694 Arg2:T148	
+R322	CMP Arg1:T696 Arg2:T697	
+R323	PUS Arg1:T696 Arg2:T149	
+T698	hed 3903 3911	ཁྱེར་_vt
+T699	pre 3873 3885	བཟོ་བཅོས་_vt
+T700	com 3886 3893	བྱས་_vu
+T701	com 3894 3902	རྗེས་_nt
+R324	CMP Arg1:T699 Arg2:T700	
+R325	TEN Arg1:T699 Arg2:T701	
+T702	sub 3830 3838	ཁྱོད་_rr
+T703	pre 3857 3865	ཁྱེར་_vt
+T704	adv 3848 3856	ཕྱིར་_dl
+R326	SBV Arg1:T703 Arg2:T702	
+R327	ADV Arg1:T703 Arg2:T704	
+R328	bo Arg1:T702 Arg2:T150	
+R329	cn Arg1:T703 Arg2:T151	
+R330	VV Arg1:T698 Arg2:T703	
+R331	ADV Arg1:T698 Arg2:T699	
+T705	com 3912 3918	ཤོག_uq
+R332	CMP Arg1:T698 Arg2:T705	
+R333	PUS Arg1:T698 Arg2:T152	
+T706	hed 3993 4000	དྲན་_vt
+T707	sub 3925 3936	བཀྲ་ཤིས་_nr
+T708	atr 3946 3959	མཐོ་འབྲིང་_nn
+T709	atr 3967 3981	སློབ་གྲོགས་_nn
+T710	obj 3982 3992	ཐར་རྡོ་_nr
+T711	com 4001 4009	བྱུང་_vu
+R334	SBV Arg1:T706 Arg2:T707	
+R335	bo Arg1:T707 Arg2:T153	
+R336	ATT Arg1:T709 Arg2:T708	
+R337	gi Arg1:T708 Arg2:T154	
+R338	APP Arg1:T710 Arg2:T709	
+R339	VOB Arg1:T706 Arg2:T710	
+R340	CMP Arg1:T706 Arg2:T711	
+R341	PUS Arg1:T706 Arg2:T155	
+T712	atr 4035 4041	རང་_rr
+T713	gi 4042 4048	གི་_gi
+R343	gi Arg1:T712 Arg2:T713	
+T714	obj 4080 4093	དངངས་སྐྲག་_nn
+T715	hed 4094 4102	བྱུང་_vi
+T716	sub 4017 4028	བཀྲ་ཤིས་_nr
+R346	VOB Arg1:T715 Arg2:T714	
+R347	SBV Arg1:T715 Arg2:T716	
+R348	PUS Arg1:T715 Arg2:T159	
+T717	sub 4130 4139	ཕ་རྒན་_nn
+T718	hed 4174 4187	ཚེ་ལས་འདས་_vi
+T719	pre 4160 4167	ཐར་བ_vi
+T720	adv 4140 4146	ནད་_nn
+T721	jg 4147 4153	ལས་_jg
+T722	atr 4110 4121	བཀྲ་ཤིས་_nr
+T723	com 4188 4195	སོང་_us
+R349	SBV Arg1:T718 Arg2:T717	
+R350	ADV Arg1:T719 Arg2:T720	
+R351	jg Arg1:T720 Arg2:T721	
+R352	df Arg1:T719 Arg2:T161	
+R353	ld Arg1:T719 Arg2:T162	
+R355	TEN Arg1:T718 Arg2:T723	
+R356	PUS Arg1:T718 Arg2:T163	
+R357	ATT Arg1:T717 Arg2:T722	
+R358	gi Arg1:T722 Arg2:T160	
+T724	obj 4235 4246	རྨང་གཞི་_nn
+T725	atr 4216 4227	སྐད་ཡིག་_nn
+T726	atr 4203 4208	ཁོ_rz
+T727	atr 4263 4274	རྒྱ་ཡིག་_nn
+T729	obj 4284 4295	བསླབ་ཚན་_nn
+R359	APP Arg1:T729 Arg2:T727	
+T728	rz 4275 4283	སོགས་_rz
+R360	RAD Arg1:T727 Arg2:T728	
+T730	rz 4296 4305	གཞན་པ་_rz
+R361	RAD Arg1:T729 Arg2:T730	
+T731	hed 4323 4331	སྦྱང་_vt
+T732	adv 4306 4316	བརྩོན་པ_bx
+R362	VOB Arg1:T731 Arg2:T729	
+R363	ADV Arg1:T731 Arg2:T732	
+R364	by Arg1:T732 Arg2:T167	
+T733	pre 4247 4254	བཟང་_ad
+R365	VOB Arg1:T733 Arg2:T724	
+R366	ATT Arg1:T724 Arg2:T725	
+R368	gi Arg1:T726 Arg2:T164	
+R369	gi Arg1:T725 Arg2:T165	
+R370	cn Arg1:T733 Arg2:T166	
+R371	IC Arg1:T731 Arg2:T733	
+R372	PUS Arg1:T731 Arg2:T168	
+T734	obj 4411 4419	ལས་ཀ་_nn
+T735	rz 4420 4427	ཞིག་_rz
+T736	hed 4428 4434	རེད_vj
+T737	sub 4339 4348	དབང་ཆ་_nn
+R373	TPC Arg1:T736 Arg2:T737	
+R374	ci Arg1:T737 Arg2:T169	
+R377	RAD Arg1:T734 Arg2:T735	
+R378	TPS Arg1:T736 Arg2:T734	
+R379	PUS Arg1:T736 Arg2:T172	
+R354	ADV Arg1:T718 Arg2:T719	
+T738	hed 4520 4527	གྱུར_vi
+T739	sub 4461 4471	ཐར་རྡོ་_nr
+T740	sub 4442 4453	བཀྲ་ཤིས་_nr
+T741	atr 4472 4480	གཉིས་_mj
+T742	obj 4481 4493	གྲོགས་པོ་_nn
+T743	atr 4494 4504	བཟང་པོ་_as
+T744	rz 4505 4512	ཞིག་_rz
+R380	SBV Arg1:T738 Arg2:T739	
+R381	VOB Arg1:T738 Arg2:T742	
+R382	ATT Arg1:T742 Arg2:T743	
+R383	RAD Arg1:T743 Arg2:T744	
+R384	ld Arg1:T744 Arg2:T174	
+R385	PUS Arg1:T738 Arg2:T175	
+R386	COO Arg1:T739 Arg2:T740	
+R387	cd Arg1:T740 Arg2:T173	
+R388	ATT Arg1:T739 Arg2:T741	
+T745	hed 4635 4641	ཡིན_vj
+T746	obj 4607 4626	གསུམ་བཟང་སློབ་མ་_nn
+T748	rz 4627 4634	ཞིག་_rz
+T749	sub 4535 4546	བཀྲ་ཤིས་_nr
+R391	TPC Arg1:T745 Arg2:T749	
+R392	ci Arg1:T749 Arg2:T176	
+R393	TPS Arg1:T745 Arg2:T746	
+R394	RAD Arg1:T746 Arg2:T748	
+R395	PUS Arg1:T745 Arg2:T178	
+T750	obj 4706 4712	མི་_nn
+T751	rz 4713 4720	ཞིག་_rz
+T752	hed 4721 4727	ཡིན_vj
+T754	sub 4649 4659	ཐར་རྡོ་_nr
+R396	TPC Arg1:T752 Arg2:T754	
+R397	ci Arg1:T754 Arg2:T179	
+R400	RAD Arg1:T750 Arg2:T751	
+R401	TPS Arg1:T752 Arg2:T750	
+R402	PUS Arg1:T752 Arg2:T181	
+T755	pre 4808 4816	བྱུང་_vi
+T756	hed 4861 4869	བྱུང་_vi
+T186	gi 4844 4850	འི་_gi
+T758	obj 4851 4860	ཉེན་ཁ་_nn
+T759	obj 4799 4807	གས་ཀ་_nn
+T760	obj 4772 4781	མལ་ཁང་_nn
+T761	atr 4755 4764	སློབ་མ_nn
+T762	atr 4782 4792	ཆེ་ཤོས་_as
+T763	sub 4735 4745	ས་འགུལ་_nn
+R403	SBV Arg1:T755 Arg2:T763	
+R404	bo Arg1:T763 Arg2:T182	
+R405	ATT Arg1:T760 Arg2:T761	
+R406	gi Arg1:T761 Arg2:T183	
+R407	ATT Arg1:T760 Arg2:T762	
+R408	VOB Arg1:T755 Arg2:T759	
+R409	IOB Arg1:T755 Arg2:T760	
+R410	ls Arg1:T762 Arg2:T184	
+R411	cn Arg1:T755 Arg2:T185	
+R412	VV Arg1:T756 Arg2:T755	
+R415	VOB Arg1:T756 Arg2:T758	
+R416	PUS Arg1:T756 Arg2:T187	
+T764	hed 5014 5022	བྱུང་_vi
+T765	obj 4983 4995	གདོང་ཐུག་_nv
+T766	atr 4996 5005	མང་པོ་_as
+T767	adv 4951 4964	མངོན་ལྐོག་_nn
+T768	fz 4965 4975	གང་རུང་_ry
+R417	RAD Arg1:T767 Arg2:T768	
+T769	jg 4976 4982	ནས་_jg
+T770	sub 4877 4883	ཁོ་_rr
+T771	sub 4904 4920	བཀྲ་ཤིས་ཁ་ཆེ་_nr
+T772	atr 4891 4903	མགོ་ཁྲིད་_nn
+R418	APP Arg1:T771 Arg2:T772	
+T773	atr 4921 4929	གཉིས་_mj
+R419	ATT Arg1:T771 Arg2:T773	
+T774	atr 4938 4944	བར་_nf
+R420	ATT Arg1:T771 Arg2:T774	
+R421	gi Arg1:T773 Arg2:T189	
+R422	COO Arg1:T771 Arg2:T770	
+R423	cd Arg1:T770 Arg2:T188	
+R424	cl Arg1:T774 Arg2:T190	
+T775	rz 5006 5013	ཞིག་_rz
+R425	RAD Arg1:T766 Arg2:T775	
+R426	SBV Arg1:T764 Arg2:T771	
+R427	ADV Arg1:T764 Arg2:T767	
+R428	jg Arg1:T768 Arg2:T769	
+R429	VOB Arg1:T764 Arg2:T765	
+R430	ATT Arg1:T765 Arg2:T766	
+R431	PUS Arg1:T764 Arg2:T191	
+T776	hed 5126 5133	རིང་_ad
+T777	sub 5050 5063	གྲོང་ཁྱེར་_nn
+T778	adv 5078 5098	མདོ་དབུས་མཐོ་སྒང་_ns
+T779	obj 5106 5114	ཁ་ཐག་_nn
+T780	atr 5030 5041	ནང་ལོགས་_nf
+T781	adv 5115 5125	ཤིན་ཏུ་_dc
+R432	SBV Arg1:T776 Arg2:T777	
+T782	rz 5064 5070	དེ་_rz
+R433	ci Arg1:T782 Arg2:T193	
+R434	RAD Arg1:T777 Arg2:T782	
+R435	ADV Arg1:T776 Arg2:T778	
+R436	cd Arg1:T778 Arg2:T194	
+R437	VOB Arg1:T776 Arg2:T779	
+R438	ADV Arg1:T776 Arg2:T781	
+R439	PUS Arg1:T776 Arg2:T195	
+R440	ATT Arg1:T777 Arg2:T780	
+R441	gi Arg1:T780 Arg2:T192	
+T783	hed 5301 5307	ཡིན_vj
+T198	obj 5286 5292	མི་_nn
+T199	sub 5141 5147	ཁོ་_rr
+R443	cu Arg1:T199 Arg2:T196	
+R445	TPC Arg1:T783 Arg2:T199	
+R446	TPS Arg1:T783 Arg2:T198	
+T200	rz 5293 5300	ཞིག་_rz
+R447	RAD Arg1:T198 Arg2:T200	
+R448	PUS Arg1:T783 Arg2:T203	
+T201	hed 5412 5420	འཛིངས_vi
+T785	sub 5380 5391	ཁང་རྩེག་_nn
+T786	adv 5359 5372	གྲོང་ཁྱེར་_nn
+T787	atr 5339 5350	ཕྱི་རོལ་_nf
+T788	atr 5315 5325	ཁང་མིག་_nn
+T789	atr 5326 5331	དེ_rz
+R449	ATT Arg1:T787 Arg2:T788	
+R450	gi Arg1:T789 Arg2:T204	
+R451	APP Arg1:T788 Arg2:T789	
+R452	ATT Arg1:T786 Arg2:T787	
+R453	gi Arg1:T787 Arg2:T205	
+R454	lt Arg1:T786 Arg2:T206	
+R455	SBV Arg1:T201 Arg2:T785	
+R457	ADV Arg1:T201 Arg2:T786	
+R458	PUS Arg1:T201 Arg2:T207	
+T790	sub 5428 5434	ཁོ་_rr
+T791	adv 5435 5442	མལ་ས_nn
+T792	obj 5464 5470	ཡར་_nf
+T793	pre 5471 5479	དགྱེ་_vi
+R459	VOB Arg1:T793 Arg2:T792	
+R460	cn Arg1:T793 Arg2:T209	
+T794	obj 5488 5496	ཐ་མག་_nn
+T795	atr 5497 5512	རྐང་_qg ཞིག་_mj
+R461	QUN Arg1:T794 Arg2:T795	
+T796	obj 5519 5525	མེ་_nn
+T797	hed 5526 5535	བསྒྲོན_vt
+R462	SBV Arg1:T793 Arg2:T790	
+R463	gi Arg1:T791 Arg2:T208	
+T798	atr 5450 5456	ནང་_nf
+R464	ATT Arg1:T791 Arg2:T798	
+T799	jg 5457 5463	ནས་_jg
+R465	jg Arg1:T798 Arg2:T799	
+R466	ADV Arg1:T793 Arg2:T791	
+R467	IOB Arg1:T797 Arg2:T794	
+R468	VOB Arg1:T797 Arg2:T796	
+R469	ls Arg1:T795 Arg2:T210	
+R470	VV Arg1:T797 Arg2:T793	
+R471	PUS Arg1:T797 Arg2:T211	
+T800	hed 5623 5629	ཡིན_vj
+T801	com 5615 5622	ག་ལ་_uu
+T212	sub 5571 5581	ཕུར་ཁོ་_nr
+T802	obj 5589 5606	འདི་_rz འདྲ་བ་_ub
+T803	rz 5607 5614	ཞིག་_rz
+R474	TPC Arg1:T800 Arg2:T212	
+R475	TPS Arg1:T800 Arg2:T802	
+R476	ci Arg1:T212 Arg2:T214	
+R477	RAD Arg1:T802 Arg2:T803	
+R478	MT Arg1:T800 Arg2:T801	
+R479	PUS Arg1:T800 Arg2:T215	
+T805	hed 5761 5767	ཕྱེ_vt
+T806	pre 5699 5708	བརྟེན་_vt
+T807	obj 5755 5760	ཁ་_nn
+T808	atr 5716 5728	འབྲི་དེབ་_nn
+T809	atr 5729 5739	རྙིང་བ་_as
+T810	rz 5740 5747	ཞིག་_rz
+T811	obj 5684 5692	མདངས་_nn
+T812	atr 5658 5665	འོད་_nn
+T813	atr 5666 5676	མག་མོག་_zt
+R480	ATT Arg1:T811 Arg2:T812	
+R481	ATT Arg1:T812 Arg2:T813	
+T814	sub 5637 5648	བཀྲ་ཤིས་_nr
+R482	gi Arg1:T813 Arg2:T217	
+R483	VOB Arg1:T806 Arg2:T811	
+R484	ls Arg1:T811 Arg2:T218	
+R485	SBV Arg1:T806 Arg2:T814	
+R486	bo Arg1:T814 Arg2:T216	
+R487	cn Arg1:T806 Arg2:T219	
+R488	ATT Arg1:T807 Arg2:T808	
+R489	ATT Arg1:T808 Arg2:T809	
+R490	RAD Arg1:T809 Arg2:T810	
+R491	gi Arg1:T810 Arg2:T220	
+R492	VOB Arg1:T805 Arg2:T807	
+R493	VV Arg1:T805 Arg2:T806	
+R494	PUS Arg1:T805 Arg2:T221	
+T815	obj 5867 5878	གྲོང་ཚོ་_nn
+T816	rz 5879 5886	ཞིག་_rz
+T817	hed 5887 5893	ཡིན_vj
+T818	atr 5836 5843	ཕུ་པ_nn
+T819	atr 5851 5858	གྲས་_nn
+T820	sub 5810 5821	གྲོང་ཚོ་_nn
+T821	atr 5822 5828	དེ་_rz
+R497	TPC Arg1:T817 Arg2:T820	
+R498	ci Arg1:T821 Arg2:T224	
+R499	APP Arg1:T820 Arg2:T821	
+R500	gi Arg1:T818 Arg2:T225	
+R501	ATT Arg1:T818 Arg2:T819	
+R502	ATT Arg1:T815 Arg2:T818	
+R503	gi Arg1:T819 Arg2:T226	
+R504	RAD Arg1:T815 Arg2:T816	
+R505	TPS Arg1:T817 Arg2:T815	
+R506	PUS Arg1:T817 Arg2:T227	
+T822	hed 5971 5978	བྱིན_vt
+T823	obj 5960 5970	གཟན་ཆག་_nn
+T824	pre 5944 5952	བཏགས་_vt
+T825	obj 5929 5937	བྲེས་_nn
+T826	obj 5919 5928	རྟ་ཕོ་_nn
+T827	sub 5901 5910	པ་ཆུང་_nr
+R507	SBV Arg1:T824 Arg2:T827	
+R508	bo Arg1:T827 Arg2:T228	
+R509	VOB Arg1:T824 Arg2:T826	
+R510	IOB Arg1:T824 Arg2:T825	
+R511	ls Arg1:T825 Arg2:T229	
+R512	cn Arg1:T824 Arg2:T230	
+R513	VOB Arg1:T822 Arg2:T823	
+R514	VV Arg1:T822 Arg2:T824	
+R515	PUS Arg1:T822 Arg2:T231	
+T828	hed 6172 6178	ཡིན_vj
+T829	obj 6135 6145	བཏུང་བ་_nn
+T830	atr 6146 6163	རྨད་དུ་བྱུང་བ་_as
+T831	rz 6164 6171	ཞིག་_rz
+T832	sub 6004 6012	འོ་མ་_nn
+T833	atr 5986 5996	འབྲི་མོ_nn
+R517	ATT Arg1:T829 Arg2:T830	
+R519	ci Arg1:T832 Arg2:T233	
+R520	ATT Arg1:T832 Arg2:T833	
+R521	gi Arg1:T833 Arg2:T232	
+R522	TPC Arg1:T828 Arg2:T832	
+R523	TPS Arg1:T828 Arg2:T829	
+R524	RAD Arg1:T830 Arg2:T831	
+R525	PUS Arg1:T828 Arg2:T239	
+T235	sub 6186 6212	འབྲུག་མོ་_nr དཔོན་གཡོན་_nn
+T236	atr 6213 6221	གསུམ་_mj
+T237	pre 6231 6247	ཐན་ངན་རང་གསང་_xx
+T834	com 6248 6255	བྱས་_vt
+R527	QUN Arg1:T235 Arg2:T236	
+R528	bo Arg1:T236 Arg2:T240	
+R530	cn Arg1:T834 Arg2:T241	
+T835	hed 6294 6299	གད_vu
+T836	com 6300 6305	འོ_uz
+T837	pre 6279 6287	བཤད་པ_vt
+T838	obj 6263 6272	སྐད་ཆ་_nn
+R532	VOB Arg1:T837 Arg2:T838	
+R533	df Arg1:T837 Arg2:T242	
+R534	ld Arg1:T837 Arg2:T243	
+R535	ADV Arg1:T835 Arg2:T837	
+R536	CMP Arg1:T835 Arg2:T836	
+R537	PUS Arg1:T835 Arg2:T244	
+T839	atr 6313 6320	གུར་_nn
+T840	adv 6329 6337	དབུས་_nf
+T841	sub 6356 6367	གུར་དཀར་_nr
+T842	obj 6368 6380	གསེར་ཁྲི་_nn
+T843	atr 6381 6389	གཅིག་_mj
+T844	atr 6344 6355	རྒྱལ་པོ་_nx
+T845	pre 6396 6408	ཧོར་འདུག་_nv
+T846	com 6409 6416	བྱས་_vt
+T847	hed 6424 6431	བསྡད_vi
+R541	QUN Arg1:T842 Arg2:T843	
+R542	ls Arg1:T843 Arg2:T247	
+R543	APP Arg1:T841 Arg2:T844	
+R546	lt Arg1:T840 Arg2:T246	
+R547	cn Arg1:T846 Arg2:T248	
+R549	PUS Arg1:T847 Arg2:T249	
+T848	hed 6518 6525	འདུག_vc
+T849	pre 6502 6511	གསུང་བ_vt
+R550	VOB Arg1:T849 Arg2:T252	
+R551	df Arg1:T849 Arg2:T253	
+T850	obj 6454 6465	ཞལ་འཛུམ་_nn
+T851	atr 6466 6472	ཙམ་_dc
+R552	RAD Arg1:T850 Arg2:T851	
+T852	pre 6473 6480	མཛད་_vt
+T853	sub 6439 6447	རྒྱ་ཚ_nr
+R553	SBV Arg1:T852 Arg2:T853	
+R554	VOB Arg1:T852 Arg2:T850	
+R555	bo Arg1:T853 Arg2:T250	
+R556	cn Arg1:T852 Arg2:T251	
+R557	VV Arg1:T848 Arg2:T852	
+R558	ld Arg1:T849 Arg2:T254	
+R559	ADV Arg1:T848 Arg2:T849	
+R560	PUS Arg1:T848 Arg2:T255	
+T854	sub 6541 6553	དཔའ་རྟུལ་_nn
+T855	atr 6554 6562	རྣམས་_qj
+T856	atr 6572 6581	རང་རང་_rr
+T857	obj 6589 6595	རྟ་_nn
+T858	pre 6596 6604	བཟུང་_vt
+T859	adv 6612 6617	དེ_rz
+T860	pre 6624 6631	ལངས་_vi
+T861	hed 6639 6646	བསྡད_vi
+T862	rz 6533 6540	གཞན་_rz
+R561	SBV Arg1:T858 Arg2:T854	
+R563	QUN Arg1:T854 Arg2:T855	
+R564	bo Arg1:T855 Arg2:T256	
+R565	ATT Arg1:T857 Arg2:T856	
+R566	gi Arg1:T856 Arg2:T257	
+R567	VOB Arg1:T858 Arg2:T857	
+R568	cn Arg1:T858 Arg2:T258	
+R569	ADV Arg1:T860 Arg2:T859	
+R570	lt Arg1:T859 Arg2:T259	
+R571	cn Arg1:T860 Arg2:T260	
+R572	VV Arg1:T861 Arg2:T858	
+R573	VV Arg1:T861 Arg2:T860	
+R574	PUS Arg1:T861 Arg2:T261	
+T863	hed 6787 6794	གྲགས_vi
+T864	sub 6654 6665	མཚོ་ཆེན་_nn
+T865	pre 6711 6719	ཆགས་པ_vi
+T866	adv 6680 6692	ཡར་འབྲོག་_ns
+T867	atr 6693 6703	ས་ཁོངས་_nn
+T868	atr 6666 6672	དེ་_rz
+R575	SBV Arg1:T865 Arg2:T864	
+R576	ADV Arg1:T865 Arg2:T866	
+R577	ATT Arg1:T866 Arg2:T867	
+R578	ci Arg1:T868 Arg2:T262	
+R579	lt Arg1:T867 Arg2:T263	
+T869	sub 6726 6737	གནའ་མིང་_nn
+R580	cl Arg1:T869 Arg2:T265	
+T870	obj 6751 6771	ཡར་འབྲོག་གཡུ་མཚོ་_ns
+R581	SBV Arg1:T863 Arg2:T869	
+R582	cu Arg1:T265 Arg2:T266	
+R583	VOB Arg1:T863 Arg2:T870	
+R584	ce Arg1:T870 Arg2:T267	
+R585	ld Arg1:T267 Arg2:T268	
+R586	PUS Arg1:T863 Arg2:T269	
+R588	bg Arg1:T865 Arg2:T264	
+R589	APP Arg1:T864 Arg2:T868	
+T871	hed 6893 6909	ལོངས་སུ་སྤྱོད_vt
+T872	sub 6802 6816	ཕྱུགས་རིགས་_nn
+T873	atr 6817 6827	དཀར་ནག་_nn
+T874	atr 6828 6835	ཁྱུ་_qj
+T875	atr 6843 6849	ཁྱུ_qj
+R590	ATT Arg1:T872 Arg2:T873	
+R591	QUN Arg1:T872 Arg2:T874	
+R593	cd Arg1:T874 Arg2:T270	
+R594	bo Arg1:T875 Arg2:T271	
+T876	atr 6856 6876	དྲི་ཞིམ་བཅུད་ལྡན་_xx
+T877	obj 6885 6892	རྩྭ་_nn
+R595	SBV Arg1:T871 Arg2:T872	
+R596	VOB Arg1:T871 Arg2:T877	
+R597	ATT Arg1:T877 Arg2:T876	
+R598	gi Arg1:T876 Arg2:T272	
+R599	PUS Arg1:T871 Arg2:T273	
+T878	sub 6966 6978	ཕྱག་རྗེས་_nn
+T879	hed 7026 7033	ཡོད་_vc
+T880	adv 7007 7018	བྲག་ངོས་_nf
+R600	SBV Arg1:T879 Arg2:T878	
+R601	ci Arg1:T878 Arg2:T276	
+R602	ADV Arg1:T879 Arg2:T880	
+T881	atr 6986 6998	ཤར་ཕྱོགས་_nf
+R603	lt Arg1:T880 Arg2:T278	
+R604	ATT Arg1:T880 Arg2:T881	
+R605	gi Arg1:T881 Arg2:T277	
+T882	com 7034 7040	སྐད_uu
+R606	CMP Arg1:T879 Arg2:T882	
+T883	atr 6944 6957	སློབ་དཔོན་_nx
+T884	atr 6917 6936	ཡར་འབྲོག་གཡུ་མཚོ_ns
+R607	ATT Arg1:T878 Arg2:T883	
+R609	gi Arg1:T884 Arg2:T274	
+R610	gi Arg1:T883 Arg2:T275	
+R611	PUS Arg1:T879 Arg2:T279	
+T885	obj 7126 7136	ནོར་བུ་_nn
+T886	atr 7137 7154	རིན་ཐང་ བྲལ་བ་_as
+T281	rz 7155 7162	ཞིག་_rz
+T887	hed 7170 7178	བརྩི་_vt
+T888	com 7179 7187	བཞིན་_us
+T889	com 7188 7194	ཡོད_ud
+R613	ATT Arg1:T885 Arg2:T886	
+R614	RAD Arg1:T886 Arg2:T281	
+R615	ld Arg1:T281 Arg2:T283	
+T891	sub 7048 7060	བཀའ་བསྟན་_nn
+R616	SBV Arg1:T887 Arg2:T891	
+R617	ci Arg1:T891 Arg2:T280	
+T890	obj 7098 7110	སྐད་གྲགས་_nn
+T892	pre 7111 7118	ཆེ་བ_as
+T894	lt 7092 7097	ན་_lt
+R622	TEN Arg1:T887 Arg2:T888	
+R623	CMP Arg1:T887 Arg2:T889	
+R624	PUS Arg1:T887 Arg2:T284	
+R625	VOB Arg1:T887 Arg2:T885	
+T895	com 7271 7278	འདོད_vu
+T896	obj 7239 7247	གཡུལ་_nn
+T897	hed 7255 7264	འགྲོ་བ_vi
+T898	obj 7213 7222	རུ་སྣ་_nn
+T899	pre 7223 7231	དྲངས་_vt
+T900	sub 7202 7206	ང_rr
+R627	bo Arg1:T900 Arg2:T285	
+R628	VOB Arg1:T899 Arg2:T898	
+R629	cn Arg1:T899 Arg2:T286	
+R630	VOB Arg1:T897 Arg2:T896	
+R631	ls Arg1:T896 Arg2:T287	
+R634	ld Arg1:T897 Arg2:T288	
+R635	PUS Arg1:T895 Arg2:T289	
+T901	hed 7340 7347	ཚགས་_vt
+T902	sub 7323 7330	ངེད་_rr
+T903	obj 7286 7293	ནོར་_nn
+T904	atr 7294 7302	རྣམས་_qj
+T906	com 7348 7355	བྱེད_vu
+R636	VOB Arg1:T901 Arg2:T903	
+R638	QUN Arg1:T903 Arg2:T904	
+R639	SBV Arg1:T901 Arg2:T902	
+R640	CMP Arg1:T901 Arg2:T906	
+R641	bo Arg1:T902 Arg2:T290	
+R642	PUS Arg1:T901 Arg2:T291	
+T907	hed 7427 7436	བརྡུངས_vt
+T908	adv 7411 7418	ལྕག་_nn
+T909	atr 7393 7403	ཕུ་དུང་_nn
+T910	sub 7363 7383	ངེད་_rr མིང་སྲིང་_nn
+T911	atr 7384 7392	གཉིས་_mj
+R643	QUN Arg1:T910 Arg2:T911	
+R644	ATT Arg1:T908 Arg2:T909	
+R645	gi Arg1:T909 Arg2:T292	
+R646	ba Arg1:T908 Arg2:T293	
+R647	ADV Arg1:T907 Arg2:T908	
+R648	PUS Arg1:T907 Arg2:T294	
+R649	SBV Arg1:T907 Arg2:T910	
+T297	adv 7521 7533	ཅི་_rz ལ་_cl
+T912	hed 7541 7548	རུང་_vu
+T913	sub 7444 7452	ཁྱེད་_rr
+T914	atr 7453 7463	འདི་འདྲ_rz
+T915	atr 7471 7483	བགྲེས་པོ་_nn
+T916	rz 7484 7491	ཞིག་_rz
+T917	pre 7492 7500	སྡོད་_vt
+T918	com 7501 7508	རུང་_vu
+T919	sub 7515 7520	ང་_rr
+R650	SBV Arg1:T917 Arg2:T913	
+R651	gi Arg1:T914 Arg2:T295	
+R652	ATT Arg1:T913 Arg2:T915	
+R653	APP Arg1:T913 Arg2:T914	
+R654	RAD Arg1:T915 Arg2:T916	
+R655	CMP Arg1:T917 Arg2:T918	
+R656	cv Arg1:T918 Arg2:T296	
+R657	ADV Arg1:T912 Arg2:T917	
+R658	SBV Arg1:T912 Arg2:T919	
+R659	ADV Arg1:T912 Arg2:T297	
+R660	df Arg1:T912 Arg2:T298	
+R661	PUS Arg1:T912 Arg2:T299	
+T920	hed 7686 7692	ཡིན_vj
+T921	obj 7659 7671	རྒྱལ་རབས་_nn
+T922	atr 7672 7685	སོ་གཉིས་པ་_mj
+T923	atr 7643 7650	བོད་_ne
+T924	pre 7626 7635	བཞུགས་_vi
+T925	sub 7556 7568	སྲོང་བཙན་_nr
+T926	adv 7569 7580	དགུང་ལོ་_nn
+T927	atr 7581 7593	བཅུ་གསུམ་_mj
+R662	QUN Arg1:T926 Arg2:T927	
+R663	gi Arg1:T927 Arg2:T300	
+T928	obj 7610 7619	རྒྱལ་ས_nn
+R665	SBV Arg1:T924 Arg2:T925	
+R666	ADV Arg1:T924 Arg2:T926	
+R667	VOB Arg1:T924 Arg2:T928	
+R668	ls Arg1:T928 Arg2:T302	
+R669	cg Arg1:T924 Arg2:T303	
+R670	IC Arg1:T920 Arg2:T924	
+R671	ATT Arg1:T921 Arg2:T923	
+R672	gi Arg1:T923 Arg2:T304	
+R673	QUN Arg1:T921 Arg2:T922	
+R674	TPS Arg1:T920 Arg2:T921	
+R675	PUS Arg1:T920 Arg2:T305	
+T929	atr 7746 7757	སྐབས་སུ་_dp
+T930	sub 7770 7786	ཤཱཀྱ་རྡོ་རྗེ་_nr
+T931	atr 7758 7769	ཡིག་མཁན་_nn
+T932	atr 7787 7796	ཟེར་བ་_nv
+R678	RAD Arg1:T930 Arg2:T932	
+R679	APP Arg1:T930 Arg2:T931	
+T933	hed 7797 7805	བྱུང་_vi
+R680	SBV Arg1:T933 Arg2:T930	
+R682	PUS Arg1:T933 Arg2:T308	
+T934	hed 7907 7914	བཙུགས_v
+T935	obj 7894 7906	སློབ་གྲྭ་_nn
+T936	atr 7878 7885	སྨན་_nn
+T937	adv 7852 7870	ཀོང་པོ་སྨན་ལུང་_ns
+T938	sub 7813 7845	གཡུ་ཐོག་རྙིང་མ་ཡོན་ཏན་མགོན་པོ_nr
+R683	SBV Arg1:T934 Arg2:T938	
+R684	bo Arg1:T938 Arg2:T309	
+R685	ADV Arg1:T934 Arg2:T937	
+R686	ATT Arg1:T935 Arg2:T936	
+R687	VOB Arg1:T934 Arg2:T935	
+R688	PUS Arg1:T934 Arg2:T312	
+T939	hed 8008 8015	ཡིན་_vj
+T940	atr 7939 7964	ནོར་ཕྱུགས་_nn གསོ་རིག་_nn
+T941	atr 7923 7930	བོད་_ne
+T942	sub 7972 7985	གཞུང་ལུགས་_nn
+T943	atr 7986 7995	ཐོག་མ་_nt
+T944	obj 7996 8007	འདི་ཉིད་_rz
+T945	com 8023 8029	སྙམ_vt
+R689	SBV Arg1:T939 Arg2:T942	
+R690	TPS Arg1:T939 Arg2:T944	
+R691	ATT Arg1:T942 Arg2:T943	
+R692	ATT Arg1:T942 Arg2:T940	
+R693	ATT Arg1:T940 Arg2:T941	
+R694	gi Arg1:T941 Arg2:T313	
+R695	gi Arg1:T940 Arg2:T314	
+R696	cy Arg1:T939 Arg2:T315	
+R697	CMP Arg1:T939 Arg2:T945	
+R698	PUS Arg1:T939 Arg2:T316	
+T946	hed 8125 8131	ཟེར_vt
+T947	sub 8037 8049	བྱང་ལུགས་_nn
+T948	obj 8095 8109	སློབ་རྒྱུད་_nn
+T949	atr 8060 8087	བྱང་བ་རྣམ་རྒྱལ་གྲགས་བཟང་_nr
+T950	atr 8110 8118	རྣམས་_qj
+R699	SBV Arg1:T946 Arg2:T947	
+R700	RAD Arg1:T947 Arg2:T317	
+R701	VOB Arg1:T946 Arg2:T948	
+R702	ATT Arg1:T948 Arg2:T949	
+R703	QUN Arg1:T948 Arg2:T950	
+R704	gi Arg1:T949 Arg2:T318	
+R705	cl Arg1:T950 Arg2:T319	
+R706	PUS Arg1:T946 Arg2:T320	
+T951	hed 8226 8232	ཟེར_vt
+T952	sub 8139 8151	ཟུར་ལུགས་_nn
+T953	atr 8162 8188	ཟུར་མཁར་མཉམ་ཉིད་རྡོ་རྗེ_nr
+T954	obj 8196 8210	སློབ་རྒྱུད་_nn
+T955	atr 8211 8219	རྣམས་_qj
+R707	SBV Arg1:T951 Arg2:T952	
+R708	RAD Arg1:T952 Arg2:T321	
+R709	VOB Arg1:T951 Arg2:T954	
+R710	QUN Arg1:T954 Arg2:T955	
+R711	ATT Arg1:T954 Arg2:T953	
+R712	gi Arg1:T953 Arg2:T322	
+R713	cl Arg1:T955 Arg2:T323	
+R714	PUS Arg1:T951 Arg2:T324	
+T956	hed 8293 8300	དུངས_vi
+T957	obj 8279 8286	རྩྭ་_nn
+T958	pre 8263 8270	དགའ་_vi
+T959	obj 8249 8256	རྩྭ་_nn
+T960	sub 8240 8248	ང་རང་_rr
+R716	VOB Arg1:T958 Arg2:T959	
+R717	ls Arg1:T959 Arg2:T325	
+R718	cn Arg1:T958 Arg2:T326	
+R719	VV Arg1:T956 Arg2:T958	
+R720	VOB Arg1:T956 Arg2:T957	
+R721	ls Arg1:T957 Arg2:T327	
+R722	PUS Arg1:T956 Arg2:T328	
+T331	pre 8327 8334	བཙས་_vi
+T961	obj 8321 8326	ང་_rr
+T962	sub 8308 8314	ཨ་མ_nn
+T963	hed 8386 8395	སླེབས་_vi
+T964	sub 8375 8385	དགུན་ཁ་_nt
+T965	com 8396 8403	སོང་_us
+R724	SBV Arg1:T963 Arg2:T964	
+R726	TEN Arg1:T963 Arg2:T965	
+R727	PUS Arg1:T963 Arg2:T333	
+R728	SBV Arg1:T331 Arg2:T962	
+R729	VOB Arg1:T331 Arg2:T961	
+R730	bo Arg1:T962 Arg2:T329	
+R731	cn Arg1:T331 Arg2:T330	
+T967	hed 8466 8473	དྲོས_vt
+T968	adv 8456 8465	རབ་ཏུ་_dc
+T969	obj 8443 8455	རྒྱལ་ཁམས་_nn
+T970	sub 8426 8433	འོད་_nn
+T971	atr 8411 8418	ཉི་མ_nn
+R733	SBV Arg1:T967 Arg2:T970	
+R734	VOB Arg1:T967 Arg2:T969	
+R735	ADV Arg1:T967 Arg2:T968	
+R736	ATT Arg1:T970 Arg2:T971	
+R737	gi Arg1:T971 Arg2:T334	
+R738	PUS Arg1:T967 Arg2:T336	
+T972	hed 8535 8541	བསལ_vt
+T973	adv 8523 8534	ཡོངས་སུ་_dw
+T974	obj 8513 8522	མུན་པ་_nn
+T975	sub 8496 8503	འོད་_nn
+T976	atr 8481 8488	ཟླ་བ_nn
+R739	SBV Arg1:T972 Arg2:T975	
+R740	ADV Arg1:T972 Arg2:T973	
+R741	VOB Arg1:T972 Arg2:T974	
+R742	bo Arg1:T975 Arg2:T338	
+R743	ATT Arg1:T975 Arg2:T976	
+R744	gi Arg1:T976 Arg2:T337	
+R745	PUS Arg1:T972 Arg2:T339	
+T977	hed 8612 8620	བསླངས_vt
+T978	adv 8596 8604	གཉིད་_nv
+T979	jg 8605 8611	ལས་_jg
+T980	obj 8586 8595	ས་གཞི་_nn
+T981	sub 8567 8579	འབྲུག་སྒྲ_nn
+T982	atr 8549 8558	དཔྱིད་_nt
+R746	SBV Arg1:T977 Arg2:T981	
+R747	VOB Arg1:T977 Arg2:T980	
+R748	ADV Arg1:T977 Arg2:T978	
+R749	jg Arg1:T978 Arg2:T979	
+R750	ATT Arg1:T981 Arg2:T982	
+R751	gi Arg1:T982 Arg2:T340	
+R752	PUS Arg1:T977 Arg2:T342	
+T983	atr 8695 8702	འདི་_rz
+T984	obj 8710 8717	ནོར་_nn
+T985	atr 8718 8726	རྣམས་_qj
+T986	obj 8727 8734	རྡང་_nn
+T987	pre 8741 8751	བསྟར་བ་_vt
+T988	hed 8758 8765	ཡིན་_vj
+R755	ci Arg1:T983 Arg2:T345	
+R756	VOB Arg1:T987 Arg2:T984	
+R757	IOB Arg1:T987 Arg2:T986	
+R758	ATT Arg1:T984 Arg2:T985	
+R759	df Arg1:T988 Arg2:T347	
+R760	cy Arg1:T988 Arg2:T348	
+R761	TPS Arg1:T988 Arg2:T987	
+T344	pre 8810 8819	དགའ་བ་_vi
+T989	sub 8779 8786	ནོར་_nn
+R762	bo Arg1:T981 Arg2:T341	
+T990	rz 8787 8794	འདི་_rz
+T991	obj 8795 8803	མཐོ་ས_nn
+R763	SBV Arg1:T344 Arg2:T989	
+R764	ci Arg1:T344 Arg2:T351	
+T992	hed 8898 8905	ཡིན་_vj
+R765	TPC Arg1:T992 Arg2:T344	
+R766	RAD Arg1:T989 Arg2:T990	
+R767	VOB Arg1:T344 Arg2:T991	
+R768	ls Arg1:T991 Arg2:T350	
+T993	atr 8847 8860	བླ་ན་མཐོ་བ_as
+T994	atr 8827 8838	མི་རྣམས་_rr
+T995	obj 8868 8880	ཕུགས་བསམ་_nn
+R769	ATT Arg1:T995 Arg2:T993	
+R770	ATT Arg1:T995 Arg2:T994	
+R771	gi Arg1:T994 Arg2:T352	
+T996	obj 8881 8891	མཚོན་པ་_vt
+R772	VOB Arg1:T996 Arg2:T995	
+R773	df Arg1:T992 Arg2:T354	
+R774	TPS Arg1:T992 Arg2:T996	
+R775	cy Arg1:T992 Arg2:T355	
+R776	PUS Arg1:T992 Arg2:T356	
+T997	sub 8919 8926	ནོར་_nn
+T998	obj 8934 8942	བོངས་_nn
+T999	pre 8943 8949	ཆེ་_ad
+T1000	obj 8958 8967	སྟོབས་_nn
+T1001	pre 8975 8983	ལྡན་པ_vc
+T1002	obj 8991 9003	སྲོག་ཆགས་_nn
+R777	gi Arg1:T1001 Arg2:T360	
+T1003	rz 9004 9011	ཤིག་_rz
+T1004	hed 9012 9018	ཡིན_vj
+R778	TPC Arg1:T1004 Arg2:T997	
+R779	TPS Arg1:T1004 Arg2:T1002	
+R780	ci Arg1:T997 Arg2:T357	
+R781	ATT Arg1:T1002 Arg2:T1001	
+T1005	sub 9043 9061	ཁྱིམ་བདག་_nn ཚོ_qj
+T1006	obj 9068 9079	སྒོར་མོ་_nn
+T1007	pre 9080 9087	བཙལ་_vt
+T1008	hed 9117 9125	འགོར་_vi
+T1009	atr 9103 9116	ཉི་ཤུ་ལྷག་_mg
+T1010	adv 9095 9102	ཉིན་_nn
+T1011	atr 9026 9035	Dསྡེ་བ_nn
+T1012	com 9126 9133	སོང་_us
+R782	SBV Arg1:T1007 Arg2:T1005	
+R783	VOB Arg1:T1007 Arg2:T1006	
+R784	bo Arg1:T1005 Arg2:T363	
+R785	cn Arg1:T1007 Arg2:T364	
+R786	ADV Arg1:T1008 Arg2:T1010	
+R787	QUN Arg1:T1010 Arg2:T1009	
+R788	VV Arg1:T1008 Arg2:T1007	
+R789	TEN Arg1:T1008 Arg2:T1012	
+R790	ATT Arg1:T1005 Arg2:T1011	
+R791	gi Arg1:T1011 Arg2:T362	
+R792	PUS Arg1:T1008 Arg2:T365	
+T1013	sub 9152 9161	བཟོད་པ_nr
+T1014	atr 9141 9151	རྒད་པོ་_nn
+R793	APP Arg1:T1013 Arg2:T1014	
+R794	bo Arg1:T1013 Arg2:T366	
+T1016	hed 9227 9233	ཆད་_vi
+T1017	obj 9212 9219	ཡི་ག_nn
+T1018	atr 9197 9203	ཟས་_nn
+T1019	com 9234 9241	འདུག_vu
+R798	VOB Arg1:T1016 Arg2:T1017	
+R799	ATT Arg1:T1017 Arg2:T1018	
+R800	gi Arg1:T1018 Arg2:T368	
+R801	cu Arg1:T1017 Arg2:T369	
+R802	CMP Arg1:T1016 Arg2:T1019	
+R803	PUS Arg1:T1016 Arg2:T370	
+T1020	hed 9335 9342	གནང་_vt
+T1021	sub 9249 9271	འབྲོང་རིན་པོ་ཆེ་ཚང་_nr
+T1022	obj 9297 9305	སྡེ་བ_nn
+T1023	obj 9312 9323	བསྟོད་པ་_nv
+T1024	atr 9324 9334	ཆེན་པོ་_as
+T1025	com 9343 9350	གིན་_us
+T1026	com 9351 9358	འདུག_ud
+T1027	atr 9280 9289	འུ་ཅག་_rr
+R804	SBV Arg1:T1020 Arg2:T1021	
+R805	bo Arg1:T1021 Arg2:T371	
+R806	ATT Arg1:T1022 Arg2:T1027	
+R807	gi Arg1:T1027 Arg2:T372	
+R808	ls Arg1:T1022 Arg2:T373	
+R809	ATT Arg1:T1023 Arg2:T1024	
+R810	TEN Arg1:T1020 Arg2:T1025	
+R811	CMP Arg1:T1020 Arg2:T1026	
+R812	PUS Arg1:T1020 Arg2:T374	
+R813	IOB Arg1:T1020 Arg2:T1022	
+R814	VOB Arg1:T1020 Arg2:T1023	
+T1028	hed 9412 9420	བཞེང་_vt
+T1029	adv 9381 9391	དཔྱིད་ཀ_nt
+T1030	atr 9366 9373	ད་ལོ_nt
+T1031	sub 9398 9411	མཆོད་རྟེན་_nn
+T1032	com 9421 9429	རྒྱུ་_us
+T1033	com 9430 9436	རེད_vj
+R815	ATT Arg1:T1029 Arg2:T1030	
+R816	gi Arg1:T1030 Arg2:T375	
+R817	lh Arg1:T1029 Arg2:T376	
+R818	SBV Arg1:T1028 Arg2:T1031	
+R819	ADV Arg1:T1028 Arg2:T1029	
+R820	TEN Arg1:T1028 Arg2:T1032	
+R821	CMP Arg1:T1028 Arg2:T1033	
+R822	PUS Arg1:T1028 Arg2:T377	
+T1034	hed 9472 9479	ཕུད་_vt
+T1035	adv 9453 9464	སྡེ་གྲལ་_nn
+T1036	sub 9444 9452	ང་རང་_rr
+T1037	jg 9465 9471	ནས་_jg
+T1038	com 9480 9488	བྱུང་_vu
+R823	SBV Arg1:T1034 Arg2:T1036	
+R824	ADV Arg1:T1034 Arg2:T1035	
+R825	jg Arg1:T1035 Arg2:T1037	
+R826	CMP Arg1:T1034 Arg2:T1038	
+R827	PUS Arg1:T1034 Arg2:T378	
+T1039	hed 9641 9648	གྱུར_vi
+T1040	obj 9624 9634	སྙིང་བོ_nn
+T1041	pre 9537 9544	འཐག་_vt
+T1042	com 9545 9553	རྒྱུ་_us
+T1043	sub 9496 9502	བུ་_nn
+T1044	obj 9509 9518	ཏ་ལེན་_nn
+T1045	atr 9519 9528	གསར་བ་_as
+T1046	rz 9529 9536	ཞིག་_rz
+R828	TEN Arg1:T1041 Arg2:T1042	
+R829	ci Arg1:T1042 Arg2:T380	
+R830	SBV Arg1:T1041 Arg2:T1043	
+R831	ls Arg1:T1043 Arg2:T379	
+R832	VOB Arg1:T1041 Arg2:T1044	
+R833	ATT Arg1:T1044 Arg2:T1045	
+R834	RAD Arg1:T1045 Arg2:T1046	
+R835	SBV Arg1:T1039 Arg2:T1041	
+T1047	adv 9561 9579	སྔ་ཕྱི་བར་གསུམ་_nt
+T1048	atr 9603 9615	སེམས་དོན་_nn
+T1049	atr 9587 9595	ཁོ་མོ_rr
+R836	VOB Arg1:T1039 Arg2:T1040	
+R837	ld Arg1:T1040 Arg2:T384	
+R838	APP Arg1:T1048 Arg2:T1049	
+R839	ATT Arg1:T1040 Arg2:T1048	
+R840	ADV Arg1:T1039 Arg2:T1047	
+R841	lh Arg1:T1047 Arg2:T381	
+R842	gi Arg1:T1049 Arg2:T382	
+R843	gi Arg1:T1048 Arg2:T383	
+R844	PUS Arg1:T1039 Arg2:T385	
+T1050	hed 9724 9731	འཕུར_vi
+T1051	sub 9656 9669	བྱེའུ་ཆུང་_nn
+T1052	obj 9670 9682	གཤོག་རྩལ་_nn
+T1053	pre 9683 9691	རྒྱས་_vi
+T1054	obj 9699 9716	ཨ་སྔོན་དབྱིངས་_nn
+R845	SBV Arg1:T1053 Arg2:T1051	
+R846	VOB Arg1:T1053 Arg2:T1052	
+R847	cn Arg1:T1053 Arg2:T386	
+R848	VOB Arg1:T1050 Arg2:T1054	
+R849	ls Arg1:T1054 Arg2:T387	
+R850	VV Arg1:T1050 Arg2:T1053	
+R851	PUS Arg1:T1050 Arg2:T388	
+T1055	hed 9802 9808	ལུས_vi
+T1056	adv 9782 9794	དོག་མོ་ས་_nn
+T1057	pre 9766 9773	ཐུབ་_vt
+T1058	sub 9739 9750	བྱེའུ་མ་_nn
+T1059	adv 9751 9757	ལོ་_nt
+R852	SBV Arg1:T1057 Arg2:T1058	
+R853	ADV Arg1:T1057 Arg2:T1059	
+R854	ba Arg1:T1059 Arg2:T389	
+R855	cn Arg1:T1057 Arg2:T390	
+R856	ADV Arg1:T1055 Arg2:T1056	
+R857	VV Arg1:T1055 Arg2:T1057	
+R858	PUS Arg1:T1055 Arg2:T392	
+T1060	sub 9911 9919	གདོང་_nn
+T1061	atr 9920 9926	དེ་_rz
+T1062	adv 9943 9951	སེམས་_nn
+T1063	hed 9991 9997	གནས_vt
+T400	adv 9969 9983	ཡལ་_vi མེད་_df
+T1064	adv 9959 9968	ནམ་ཡང་_dp
+T1065	atr 9927 9935	ཁོ་མོ_rr
+R859	ADV Arg1:T1063 Arg2:T1062	
+R860	SBV Arg1:T1063 Arg2:T1060	
+R861	ADV Arg1:T1063 Arg2:T1064	
+R862	ADV Arg1:T1063 Arg2:T400	
+R863	ld Arg1:T400 Arg2:T401	
+R864	PUS Arg1:T1063 Arg2:T402	
+R865	ATT Arg1:T1062 Arg2:T1065	
+R866	APP Arg1:T1060 Arg2:T1061	
+R867	gi Arg1:T1065 Arg2:T398	
+R868	lt Arg1:T1062 Arg2:T399	
+T1066	sub 10042 10059	ཨ་མ་ཀུན་འགྲུབ་_nr
+T1067	obj 10060 10066	བུ་_nn
+T1068	pre 10073 10081	བལྟ་བ_vt
+T1069	obj 10088 10094	ལམ་_nn
+T1070	hed 10102 10107	ཆས_vi
+R869	SBV Arg1:T1070 Arg2:T1066	
+R870	VOB Arg1:T1068 Arg2:T1067	
+R871	ls Arg1:T1067 Arg2:T405	
+R872	lg Arg1:T1068 Arg2:T406	
+R873	VOB Arg1:T1070 Arg2:T1069	
+R874	ls Arg1:T1069 Arg2:T407	
+R875	ADV Arg1:T1070 Arg2:T1068	
+T1071	hed 10202 10211	འབྱོར་_vi
+T1072	adv 10143 10151	དྲིན་_nn
+T1073	atr 10115 10128	ལས་བྱེད་པ་_nn
+T1074	atr 10129 10135	འདི_rz
+R878	ATT Arg1:T1072 Arg2:T1073	
+R879	APP Arg1:T1073 Arg2:T1074	
+R880	gi Arg1:T1074 Arg2:T409	
+R881	cl Arg1:T1072 Arg2:T410	
+T1075	sub 10164 10174	རྒན་མོ་_nn
+T1076	atr 10158 10163	ང་_rr
+R882	APP Arg1:T1075 Arg2:T1076	
+T1077	atr 10175 10180	བུ_nn
+T1078	obj 10188 10194	གམ་_nf
+R884	gi Arg1:T1077 Arg2:T411	
+R885	ls Arg1:T1078 Arg2:T412	
+T1079	com 10212 10220	བྱུང་_vu
+R883	ATT Arg1:T1078 Arg2:T1077	
+R886	IOB Arg1:T1071 Arg2:T1078	
+R887	CMP Arg1:T1071 Arg2:T1079	
+R888	SBV Arg1:T1071 Arg2:T1075	
+R889	PUS Arg1:T1071 Arg2:T413	
+R890	ADV Arg1:T1071 Arg2:T1072	
+T1080	hed 10328 10335	བཅོམ_vt
+T1081	sub 10307 10318	བུ་སེམས་_nn
+T1082	obj 10258 10268	མ་སེམས་_nn
+T1083	atr 10269 10275	དེ་_rz
+T1086	pre 10241 10250	ཐོགས་པ_vt
+T1087	obj 10228 10234	བུ་_nn
+R891	IOB Arg1:T1086 Arg2:T1087	
+R892	ls Arg1:T1087 Arg2:T414	
+R893	gi Arg1:T1086 Arg2:T415	
+R894	ATT Arg1:T1082 Arg2:T1086	
+R895	APP Arg1:T1082 Arg2:T1083	
+R898	bo Arg1:T1081 Arg2:T418	
+R899	SBV Arg1:T1080 Arg2:T1081	
+R900	VOB Arg1:T1080 Arg2:T1082	
+R901	PUS Arg1:T1080 Arg2:T419	
+T1084	hed 10473 10481	ལྷུང་_vi
+T1085	com 10482 10489	སོང་_us
+T1088	obj 10459 10466	མལ་ས_nn
+T1089	sub 10441 10458	ཨ་མ་ཀུན་འགྲུབ་_nr
+R902	SBV Arg1:T1084 Arg2:T1089	
+R903	VOB Arg1:T1084 Arg2:T1088	
+R904	ls Arg1:T1088 Arg2:T424	
+T1090	hed 10550 10557	འཐག་_vt
+T1091	com 10558 10566	རྒྱུ་_us
+T1092	com 10567 10573	ཡིན_ud
+T1093	obj 10521 10531	བལ་ཕྱར་_nn
+T1094	atr 10532 10541	ཡག་པོ་_as
+T1095	rz 10542 10549	ཞིག་_rz
+T1096	obj 10508 10514	བུ་_nn
+T1097	sub 10497 10501	ང_rr
+R905	SBV Arg1:T1090 Arg2:T1097	
+R906	bo Arg1:T1097 Arg2:T426	
+R907	IOB Arg1:T1090 Arg2:T1096	
+R908	VOB Arg1:T1090 Arg2:T1093	
+R909	ATT Arg1:T1093 Arg2:T1094	
+R910	ls Arg1:T1096 Arg2:T427	
+R911	RAD Arg1:T1094 Arg2:T1095	
+R912	TEN Arg1:T1090 Arg2:T1091	
+R913	CMP Arg1:T1090 Arg2:T1092	
+R914	PUS Arg1:T1090 Arg2:T428	
+T1098	sub 10631 10641	སྐྲ་ལོ་_nn
+T1099	hed 10727 10733	མང་_as
+T1100	adv 10720 10726	ཇེ་_dc
+T1101	adv 10705 10719	གློ་བུར་དུ་_dp
+T1102	sub 10694 10704	གཉེར་མ་_nn
+T1103	atr 10679 10685	ཞལ་_nn
+T1104	pre 10664 10671	དཀར་_as
+T1105	adv 10657 10663	ཇེ་_dc
+T1106	adv 10642 10649	སྔར་_dc
+T1107	atr 10616 10623	དབུ་_nn
+T1108	atr 10589 10601	བགྲེས་མོ་_as
+T1109	atr 10581 10588	ཨ་མ་_nn
+T1110	atr 10602 10608	འདི_rz
+T1111	com 10740 10747	སོང་_vi
+T1112	com 10748 10755	འདུག_vu
+R915	ATT Arg1:T1107 Arg2:T1109	
+R916	ATT Arg1:T1109 Arg2:T1108	
+R918	gi Arg1:T1110 Arg2:T429	
+R919	ATT Arg1:T1098 Arg2:T1107	
+R920	SBV Arg1:T1104 Arg2:T1098	
+R921	ADV Arg1:T1104 Arg2:T1106	
+R922	ADV Arg1:T1104 Arg2:T1105	
+R923	gi Arg1:T1107 Arg2:T430	
+R924	cb Arg1:T1106 Arg2:T431	
+R925	cd Arg1:T1104 Arg2:T432	
+R926	SBV Arg1:T1099 Arg2:T1102	
+R927	ADV Arg1:T1099 Arg2:T1101	
+R928	ADV Arg1:T1099 Arg2:T1100	
+R929	ATT Arg1:T1102 Arg2:T1103	
+R930	gi Arg1:T1103 Arg2:T433	
+R931	COO Arg1:T1099 Arg2:T1104	
+R932	ld Arg1:T1099 Arg2:T434	
+R933	CMP Arg1:T1099 Arg2:T1111	
+R934	CMP Arg1:T1099 Arg2:T1112	
+R935	PUS Arg1:T1099 Arg2:T435	
+T1113	adv 10768 10776	དལ་བུ_as
+T1114	pre 10783 10790	སོང་_vi
+T1115	hed 10853 10859	བཞག_vt
+T1116	obj 10839 10846	ཕྱི་_nf
+T1117	atr 10825 10831	སྒོ_nn
+T1118	pre 10808 10816	བཟུང་_vt
+T1119	obj 10798 10807	བྱི་ལ་_nn
+T1120	sub 10762 10767	ང་_rr
+R936	SBV Arg1:T1114 Arg2:T1120	
+R937	ADV Arg1:T1114 Arg2:T1113	
+R938	ld Arg1:T1113 Arg2:T436	
+R939	cn Arg1:T1114 Arg2:T437	
+R940	VOB Arg1:T1118 Arg2:T1119	
+R941	cn Arg1:T1118 Arg2:T438	
+R942	IOB Arg1:T1115 Arg2:T1116	
+R943	ATT Arg1:T1116 Arg2:T1117	
+R944	gi Arg1:T1117 Arg2:T439	
+R945	ls Arg1:T1116 Arg2:T440	
+R946	VV Arg1:T1115 Arg2:T1118	
+R947	VV Arg1:T1118 Arg2:T1114	
+R948	PUS Arg1:T1115 Arg2:T441	
+T1121	sub 10884 10895	གནད་དོན་_nn
+T1122	rz 10970 10976	དེ་_rz
+T1123	atr 10896 10906	ཆེ་ཤོས་_as
+T1124	atr 10866 10876	རྩྭ་ཐང་_nn
+T1125	hed 10977 10983	ཡིན_vj
+R949	TPC Arg1:T1125 Arg2:T1121	
+R950	ATT Arg1:T1121 Arg2:T1123	
+R951	ATT Arg1:T1121 Arg2:T1124	
+R952	gi Arg1:T1124 Arg2:T442	
+R953	ci Arg1:T1123 Arg2:T443	
+R955	PUS Arg1:T1125 Arg2:T446	
+T1126	hed 11061 11068	གསོ་_vt
+T1127	sub 10991 11000	རྩྭ་ས་_nn
+T1128	atr 11001 11018	མུའུ་_qd གཅིག་_mj
+T1129	obj 11027 11040	སྒོ་ཕྱུགས་_nn
+T1130	atr 11041 11051	ཁ་གྲངས་_nn
+T1131	atr 11052 11060	བརྒྱ་_mj
+T1132	com 11069 11076	ཐུབ་_vu
+T1133	com 11077 11085	ཀྱིན་_us
+T1134	com 11086 11092	ཡོད_ud
+R956	VOB Arg1:T1126 Arg2:T1129	
+R957	SBV Arg1:T1126 Arg2:T1127	
+R958	QUN Arg1:T1127 Arg2:T1128	
+R959	bo Arg1:T1128 Arg2:T447	
+R960	ATT Arg1:T1129 Arg2:T1130	
+R961	QUN Arg1:T1130 Arg2:T1131	
+R962	CMP Arg1:T1126 Arg2:T1132	
+R963	TEN Arg1:T1126 Arg2:T1133	
+R964	CMP Arg1:T1126 Arg2:T1134	
+R965	PUS Arg1:T1126 Arg2:T448	
+T1135	sub 11100 11110	ངེད་ཅག་_rr
+T1136	adv 11160 11169	དགོན་པ_nn
+T1137	atr 11177 11183	ནང་_nf
+R966	ATT Arg1:T1136 Arg2:T1137	
+R967	lt Arg1:T1137 Arg2:T453	
+T1138	pre 11208 11216	བདམས་_vt
+T1139	obj 11191 11199	ཁང་བ་_nn
+T1140	rz 11200 11207	ཞིག་_rz
+T1141	obj 11224 11231	གནས་_nn
+T1142	hed 11232 11238	བཅས_vt
+T1143	pre 11144 11152	འཇམ་པ_as
+T1144	pre 11127 11135	དབེན་_ad
+R968	SBV Arg1:T1142 Arg2:T1135	
+R969	VV Arg1:T1142 Arg2:T1138	
+R970	VOB Arg1:T1138 Arg2:T1139	
+R971	ADV Arg1:T1138 Arg2:T1136	
+R972	gi Arg1:T1136 Arg2:T452	
+R973	RAD Arg1:T1139 Arg2:T1140	
+R974	cn Arg1:T1138 Arg2:T454	
+R975	VOB Arg1:T1142 Arg2:T1141	
+R976	PUS Arg1:T1142 Arg2:T455	
+T1145	hed 11344 11350	ཡོད_vc
+T1146	obj 11283 11291	སྣ་ཁ་_nn
+T1147	pre 11307 11315	ཡིན་པ_vj
+T1148	obj 11322 11334	རྣམ་གྲངས་_nn
+T1149	atr 11335 11343	དུ་མ་_mg
+T1150	atr 11292 11300	གཅིག་_mj
+R978	TPS Arg1:T1147 Arg2:T1146	
+R979	QUN Arg1:T1146 Arg2:T1150	
+R980	df Arg1:T1147 Arg2:T458	
+R982	cl Arg1:T1147 Arg2:T459	
+R983	VOB Arg1:T1145 Arg2:T1148	
+R984	QUN Arg1:T1148 Arg2:T1149	
+R985	VV Arg1:T1145 Arg2:T1147	
+R986	PUS Arg1:T1145 Arg2:T460	
+T1151	sub 11363 11381	དེབ་ཐེར་རྒྱ་མཚོ_nz
+R987	PUJ Arg1:T1151 Arg2:T462	
+R988	PUJ Arg1:T1151 Arg2:T461	
+R989	cm Arg1:T1151 Arg2:T463	
+T465	ww 11422 11426	༽_ww
+T1152	sub 11401 11422	མདོ་སྨད་ཆོས་འབྱུང་_nz
+R990	PUJ Arg1:T1152 Arg2:T464	
+R991	PUJ Arg1:T1152 Arg2:T465	
+R992	COO Arg1:T1152 Arg2:T1151	
+R993	ce Arg1:T1152 Arg2:T466	
+T1153	atr 11435 11443	བྱ་བ་_nv
+R994	ATT Arg1:T1152 Arg2:T1153	
+R995	ci Arg1:T1153 Arg2:T467	
+T1154	hed 11583 11589	ཡིན_vj
+T1155	obj 11551 11563	ལོ་རྒྱུས་_nn
+T1156	atr 11564 11574	ཆེན་མོ་_as
+T1157	rz 11575 11582	ཞིག་_rz
+R996	TPC Arg1:T1154 Arg2:T1152	
+R997	TPS Arg1:T1154 Arg2:T1155	
+T1158	atr 11451 11470	ཡུལ་_nn མདོ་སྨད་_ns
+T1159	atr 11479 11486	ཆོས་_nn
+T1160	atr 11494 11502	སྲིད་_nn
+T1161	atr 11511 11518	བྱ་བ_nn
+T1162	rz 11526 11534	སྐོར་_rz
+T1163	atr 11535 11543	གསལ་བ_as
+R998	ATT Arg1:T1159 Arg2:T1158	
+R999	COO Arg1:T1160 Arg2:T1159	
+R1000	cd Arg1:T1159 Arg2:T469	
+R1001	gi Arg1:T1158 Arg2:T468	
+R1002	ATT Arg1:T1161 Arg2:T1160	
+R1003	gi Arg1:T1160 Arg2:T470	
+R1004	gi Arg1:T1161 Arg2:T471	
+R1005	RAD Arg1:T1161 Arg2:T1162	
+R1007	gi Arg1:T1163 Arg2:T472	
+R1008	ATT Arg1:T1155 Arg2:T1156	
+R1010	RAD Arg1:T1156 Arg2:T1157	
+R1011	PUS Arg1:T1154 Arg2:T473	
+T1164	sub 11597 11611	མོ་ཀོ་ཁུའུ་_nz
+T1165	hed 11675 11680	བྱ_vt
+R1012	SBV Arg1:T1165 Arg2:T1164	
+R1013	cl Arg1:T1164 Arg2:T474	
+R1016	cu Arg1:T476 Arg2:T477	
+R1017	PUS Arg1:T1165 Arg2:T478	
+T1166	hed 11854 11860	རེད_vj
+T1167	obj 11834 11846	བརྙན་རིས་_nn
+T1168	atr 11847 11853	དེ་_rz
+T1169	adv 11707 11720	ལྡེབས་རིས་_nn
+T1170	atr 11721 11730	དེ་དག་_rz
+R1019	APP Arg1:T1169 Arg2:T1170	
+R1020	gi Arg1:T1170 Arg2:T480	
+T1171	atr 11688 11699	ཏུན་ཧོང་_ns
+R1021	ATT Arg1:T1169 Arg2:T1171	
+R1022	gi Arg1:T1171 Arg2:T479	
+R1023	ADV Arg1:T1166 Arg2:T1169	
+T1172	sub 11769 11793	ཡིད་བརྟན་_nn འཕྲོག་པ་_vt
+T1173	atr 11754 11761	ང་ཚོ_rr
+R1024	ATT Arg1:T1172 Arg2:T1173	
+R1025	gi Arg1:T1173 Arg2:T482	
+R1026	TPC Arg1:T1166 Arg2:T1172	
+R1027	TPS Arg1:T1166 Arg2:T1167	
+T1174	atr 11817 11826	བཙན་པོ_nx
+T1175	atr 11801 11808	བོད་_ne
+R1028	ATT Arg1:T1167 Arg2:T1174	
+R1029	ATT Arg1:T1174 Arg2:T1175	
+R1030	gi Arg1:T1175 Arg2:T484	
+R1031	gi Arg1:T1174 Arg2:T485	
+R1032	APP Arg1:T1167 Arg2:T1168	
+R1033	ci Arg1:T1172 Arg2:T483	
+R1034	PUS Arg1:T1166 Arg2:T486	
+R153	RAD Arg1:T74 Arg2:T75	
+R154	TPS Arg1:T76 Arg2:T74	
+T73	pre 1972 1982	སྐྱེལ་བ_vt
+T1176	obj 1945 1953	ཉི་མ་_nn
+T1177	atr 1954 1964	རིང་མོ་_as
+T1178	atr 1965 1971	དེ་_rz
+R155	APP Arg1:T1176 Arg2:T1178	
+R156	ATT Arg1:T1176 Arg2:T1177	
+R158	VOB Arg1:T73 Arg2:T1176	
+T1179	atr 1924 1936	བྱིས་དུས་_nt
+T1180	gi 1937 1944	ཀྱི་_gi
+R159	gi Arg1:T1179 Arg2:T1180	
+R1035	ATT Arg1:T1176 Arg2:T1179	
+T1181	adv 1898 1909	རི་གྲོང་_nn
+R1036	ADV Arg1:T73 Arg2:T1181	
+T1182	atr 1910 1916	དེ་_rz
+R1037	APP Arg1:T1181 Arg2:T1182	
+T1183	lt 1917 1923	རུ་_ls
+T1184	atr 1858 1869	རི་ཚོགས་_nn
+T1185	atr 1878 1890	ཁོང་གསེང་_nf
+T1186	gi 1891 1897	གི་_gi
+R1039	gi Arg1:T1185 Arg2:T1186	
+T1187	gi 1870 1877	ཀྱི་_gi
+R1042	gi Arg1:T1184 Arg2:T1187	
+R1043	TPC Arg1:T76 Arg2:T587	
+R1044	COO Arg1:T587 Arg2:T588	
+R1045	cd Arg1:T588 Arg2:T71	
+R1046	gi Arg1:T73 Arg2:T77	
+R1047	ATT Arg1:T74 Arg2:T73	
+T4	pre 152 160	སྤོས་_vt
+T1188	atr 100 113	རྡོ་ཕ་བོང་_nn
+T1189	sub 143 151	ཁྱོད་_rr
+T1190	atr 114 119	དེ_rz
+T1191	gi 120 126	འི་_gi
+T1192	obj 127 135	སྟེང་_nf
+T1193	ls 136 142	དུ་_lt
+T1194	sub 161 167	ཁོ་_rr
+T1195	pre 168 176	སྤོས་_vt
+R13	SBV Arg1:T4 Arg2:T1189	
+R1048	APP Arg1:T1188 Arg2:T1190	
+R1051	ls Arg1:T1192 Arg2:T1193	
+R1052	SBV Arg1:T1195 Arg2:T1194	
+R1053	COS Arg1:T1195 Arg2:T4	
+R1054	gi Arg1:T1195 Arg2:T6	
+R1055	ATT Arg1:T5 Arg2:T1195	
+T12	pre 319 328	འཛེག་པ_vt
+T1196	sub 268 283	མི་_nn རྣམས་_qj
+T1197	obj 303 312	ཡང་རྩེ_nn
+T1198	atr 284 295	ཁང་རྩེག་_nn
+T1199	gi 296 302	གི་_gi
+T1200	obj 335 348	ཞབས་འདེགས་_nn
+T1201	pre 349 359	བསྒྲུབ་_vt
+T1202	com 360 368	རྒྱུ་_us
+T1203	ls 313 318	ར་_ls
+R18	VOB Arg1:T1201 Arg2:T1200	
+R27	SBV Arg1:T12 Arg2:T1196	
+R1056	VOB Arg1:T12 Arg2:T1197	
+R1057	ATT Arg1:T1197 Arg2:T1198	
+R1058	gi Arg1:T1198 Arg2:T1199	
+R1059	ls Arg1:T1197 Arg2:T1203	
+T1204	ls 329 334	ར་_cl
+R1060	IOB Arg1:T1201 Arg2:T12	
+R1061	ls Arg1:T12 Arg2:T1204	
+R1062	CMP Arg1:T1201 Arg2:T1202	
+R1063	TPC Arg1:T500 Arg2:T502	
+R22	APP Arg1:T1201 Arg2:T499	
+R1064	TPS Arg1:T500 Arg2:T1201	
+T14	obj 427 438	ལྷག་བསམ་_nn
+T1205	atr 400 413	རྡོ་ཕ་བོང་_nn
+T1206	atr 414 419	དེ_rz
+T1207	gi 420 426	འི་_gi
+R19	APP Arg1:T1205 Arg2:T1206	
+R1066	APP Arg1:T14 Arg2:T16	
+R1068	VOB Arg1:T13 Arg2:T14	
+T28	pre 701 712	ཡོད་རུང་_fh
+T1208	sub 680 688	གསེར་_nn
+T1209	adv 689 694	ས་_nn
+T1210	lt 695 700	ན་_lt
+R53	SBV Arg1:T28 Arg2:T1208	
+R1069	ADV Arg1:T28 Arg2:T1209	
+R1070	lt Arg1:T1209 Arg2:T1210	
+R1071	ADV Arg1:T517 Arg2:T28	
+T42	pre 1070 1079	ལྡན་པ་_vc
+T1211	obj 1058 1069	ཁྱད་ཆོས་_nn
+T1212	atr 1041 1050	དཔའ་བོ_nn
+T1213	gi 1051 1057	འི་_gi
+R83	VOB Arg1:T42 Arg2:T1211	
+R85	gi Arg1:T1212 Arg2:T1213	
+R1072	ATT Arg1:T1211 Arg2:T1212	
+R1073	RAD Arg1:T42 Arg2:T542	
+R1074	TPS Arg1:T543 Arg2:T42	
+T91	pre 2451 2458	ཡིན་_vj
+T1214	atr 2405 2419	གྲིབ་གཟུགས་_nn
+T1215	atr 2420 2425	དེ_rz
+T1216	sub 2433 2443	བདག་པོ་_nn
+T1217	obj 2444 2450	སུ་_rz
+T1218	atr 2387 2396	གཞོགས་_nf
+T1219	gi 2397 2404	ཀྱི་_gi
+T1220	gi 2426 2432	འི་_gi
+R193	ATT Arg1:T1214 Arg2:T1218	
+R1075	gi Arg1:T1218 Arg2:T1219	
+R1076	APP Arg1:T1214 Arg2:T1215	
+R1077	ATT Arg1:T1216 Arg2:T1214	
+R1078	gi Arg1:T1215 Arg2:T1220	
+R1079	SBV Arg1:T91 Arg2:T1216	
+R1080	VOB Arg1:T91 Arg2:T1217	
+R1081	VOB Arg1:T608 Arg2:T91	
+T114	pre 2992 3002	བསྐུར་བ_vt
+T1221	obj 2977 2985	ཁྱོད་_rr
+T1222	sub 2964 2970	ཨ་ཕ_nn
+T1223	atr 2952 2956	ང_rr
+T1224	gi 2957 2963	འི་_gi
+T1225	bo 2971 2976	ས་_bo
+T1226	ls 2986 2991	ལ་_ls
+R243	SBV Arg1:T114 Arg2:T1222	
+R244	bo Arg1:T1222 Arg2:T1225	
+R1082	IOB Arg1:T114 Arg2:T1221	
+R1083	ATT Arg1:T1222 Arg2:T1223	
+R1084	gi Arg1:T1223 Arg2:T1224	
+R1085	gi Arg1:T114 Arg2:T117	
+R1086	ATT Arg1:T115 Arg2:T114	
+T157	pre 4064 4072	བོར་བ_vi
+T1227	obj 4049 4063	གྲིབ་གཟུགས་_nn
+R342	VOB Arg1:T157 Arg2:T1227	
+R344	ATT Arg1:T1227 Arg2:T712	
+R345	gi Arg1:T157 Arg2:T158	
+R1087	ATT Arg1:T714 Arg2:T157	
+T170	atr 4373 4385	ཐེ་གཏོགས་_nn
+T1228	com 4386 4394	བྱེད་_vt
+T1229	com 4395 4403	ཆོག་པ_vu
+T1230	obj 4356 4366	ཕ་རོལ་བ_nn
+T1231	ls 4367 4372	ར་_ls
+R375	VOB Arg1:T170 Arg2:T1230	
+R376	ls Arg1:T1230 Arg2:T1231	
+R1088	CMP Arg1:T170 Arg2:T1228	
+R1089	CMP Arg1:T170 Arg2:T1229	
+R1090	ATT Arg1:T734 Arg2:T170	
+R1091	gi Arg1:T1229 Arg2:T171	
+T747	pre 4592 4599	ཆེ་བ_as
+T1232	obj 4579 4591	སྐད་གྲགས་_nn
+T1233	adv 4554 4566	སློབ་གྲྭ་_nn
+T1234	atr 4567 4578	ཡོངས་སུ་_dw
+R389	RAD Arg1:T1233 Arg2:T1234	
+R390	ADV Arg1:T747 Arg2:T1233	
+R1092	VOB Arg1:T747 Arg2:T1232	
+R1093	gi Arg1:T747 Arg2:T177	
+R1094	ATT Arg1:T746 Arg2:T747	
+T753	pre 4690 4698	གསལ་བ_as
+T1235	adv 4679 4689	ཤིན་ཏུ་_dc
+T1236	obj 4667 4678	རང་གཤིས་_nn
+R398	VOB Arg1:T753 Arg2:T1236	
+R399	ADV Arg1:T753 Arg2:T1235	
+R1095	gi Arg1:T753 Arg2:T180	
+R1096	ATT Arg1:T750 Arg2:T753	
+T757	atr 4833 4843	བརྡིབ་པ_vt
+T1237	obj 4824 4832	ཁང་བ་_nn
+R413	VOB Arg1:T757 Arg2:T1237	
+R414	gi Arg1:T757 Arg2:T186	
+R1097	ATT Arg1:T758 Arg2:T757	
+T197	obj 5195 5209	ཕ་ས་གོར་མོ་_nn
+T1238	atr 5210 5215	དེ_rz
+T1239	ls 5216 5221	ར་_ls
+T1240	obj 5222 5233	དུང་ཞེན་_nn
+T1241	pre 5234 5240	ཆེ་_ad
+T1242	cn 5241 5248	ཞིང་_cn
+T1243	adv 5249 5261	དྲན་གདུང་_nn
+T1244	ba 5262 5269	གིས་_bo
+T1245	pre 5270 5278	མནར་བ_vt
+R442	ADV Arg1:T1245 Arg2:T1243	
+R444	ba Arg1:T1243 Arg2:T1244	
+R1098	IOB Arg1:T1241 Arg2:T197	
+R1099	VOB Arg1:T1241 Arg2:T1240	
+R1100	APP Arg1:T197 Arg2:T1238	
+R1101	ls Arg1:T1238 Arg2:T1239	
+R1102	VV Arg1:T1245 Arg2:T1241	
+R1103	cn Arg1:T1241 Arg2:T1242	
+R1104	gi Arg1:T1245 Arg2:T202	
+T1246	pre 5180 5188	འདྲ་བ_ub
+T1247	obj 5155 5164	བོད་པ་_nn
+T1248	atr 5165 5172	ཀུན་_dw
+R1105	RAD Arg1:T1247 Arg2:T1248	
+T1249	cc 5173 5179	དང་_cc
+R1106	cc Arg1:T1248 Arg2:T1249	
+R1107	VOB Arg1:T1246 Arg2:T1247	
+T1250	cl 5189 5194	ར་_cl
+R1108	ADV Arg1:T1245 Arg2:T1246	
+R1109	cl Arg1:T1246 Arg2:T1250	
+R1110	ATT Arg1:T198 Arg2:T1245	
+T222	pre 5794 5802	ཆགས་པ_vi
+T1251	adv 5775 5786	རི་འདབས་_nf
+T1252	lt 5787 5793	སུ་_ls
+R495	ADV Arg1:T222 Arg2:T1251	
+R496	lt Arg1:T1251 Arg2:T1252	
+R1111	gi Arg1:T222 Arg2:T223	
+R1112	ATT Arg1:T820 Arg2:T222	
+T234	adv 6046 6054	འོ་མ་_nn
+T1253	atr 6020 6029	ཕྱུགས་_nn
+T1254	rz 6030 6037	གཞན་_rz
+T1255	gi 6038 6045	གྱི་_gi
+R516	ATT Arg1:T234 Arg2:T1253	
+R518	RAD Arg1:T1253 Arg2:T1254	
+R1113	gi Arg1:T1254 Arg2:T1255	
+T1256	cb 6055 6061	ལས་_cq
+T1257	obj 6062 6070	བཅུད་_nn
+T1258	obj 6086 6097	སྣུམ་བག་_nn
+T1259	pre 6071 6077	ཆེ་_ad
+T1260	pre 6098 6105	ལྡན་_vj
+T1261	cn 6106 6111	ལ་_cn
+T1262	obj 6112 6118	རོ་_nn
+T1263	pre 6119 6127	མངར་བ_as
+T1264	cn 6078 6085	ཞིང་_cn
+R1114	VOB Arg1:T1259 Arg2:T1257	
+R1115	cn Arg1:T1259 Arg2:T1264	
+R1116	VOB Arg1:T1260 Arg2:T1258	
+R1117	VV Arg1:T1260 Arg2:T1259	
+R1118	cn Arg1:T1260 Arg2:T1261	
+R1119	VOB Arg1:T1263 Arg2:T1262	
+R1120	VV Arg1:T1263 Arg2:T1260	
+R1121	ADV Arg1:T1263 Arg2:T234	
+R1122	gi Arg1:T1263 Arg2:T238	
+R1123	ATT Arg1:T829 Arg2:T1263	
+R619	VOB Arg1:T892 Arg2:T890	
+R620	gi Arg1:T892 Arg2:T282	
+R621	ATT Arg1:T885 Arg2:T892	
+T343	obj 8658 8669	དར་སྐུད་_nn
+T1265	obj 8644 8657	ཕྲེང་རྡོག་_nn
+T1266	pre 8676 8686	བརྒྱུས་_vt
+T1267	com 8687 8694	འདྲ་_ub
+T1268	ls 8670 8675	ལ་_ls
+T1269	atr 8628 8636	བུང་བ_nn
+T1270	gi 8637 8643	འི་_gi
+R753	VOB Arg1:T1266 Arg2:T1265	
+R1124	IOB Arg1:T1266 Arg2:T343	
+R1125	ls Arg1:T343 Arg2:T1268	
+R1126	ATT Arg1:T1265 Arg2:T1269	
+R1127	gi Arg1:T1269 Arg2:T1270	
+R1128	CMP Arg1:T1266 Arg2:T1267	
+R754	APP Arg1:T1266 Arg2:T983	
+R1129	TPC Arg1:T987 Arg2:T1266	
+R1130	VOB Arg1:T999 Arg2:T998	
+R1131	VOB Arg1:T1001 Arg2:T1000	
+R1132	cc Arg1:T1000 Arg2:T359	
+R1133	cn Arg1:T999 Arg2:T358	
+R1134	VV Arg1:T1001 Arg2:T999	
+T1271	pre 9894 9903	ཁེངས་པ_vi
+T1272	pre 9845 9853	འགྲོ་ཁ_v
+T1273	obj 9827 9838	སློབ་གྲྭ_nn
+T1274	sub 9816 9826	བུ་ཆུང་_nn
+R1135	SBV Arg1:T1272 Arg2:T1274	
+R1136	IOB Arg1:T1272 Arg2:T1273	
+R1137	ls Arg1:T1273 Arg2:T393	
+R1138	gi Arg1:T1272 Arg2:T394	
+T1275	adv 9862 9870	ངོ་ཚ་_dx
+T1276	obj 9878 9887	སྐྱོ་བ_dx
+R1139	ATT Arg1:T1275 Arg2:T1272	
+R1140	cd Arg1:T1275 Arg2:T395	
+R1141	by Arg1:T1276 Arg2:T396	
+R1143	ADV Arg1:T1271 Arg2:T1276	
+R1144	gi Arg1:T1271 Arg2:T397	
+R1145	ATT Arg1:T1060 Arg2:T1271	
+T416	pre 10290 10299	ཐོགས་པ_vt
+T1277	obj 10276 10283	རྡོ་_nn
+T1278	ls 10284 10289	ལ་_ls
+R896	IOB Arg1:T416 Arg2:T1277	
+R897	ls Arg1:T1277 Arg2:T1278	
+R1146	gi Arg1:T416 Arg2:T417	
+R1147	ATT Arg1:T1081 Arg2:T416	
+R1148	PUS Arg1:T1070 Arg2:T408	
+T1279	pre 10419 10433	སླེབས་མ་ཐག་_vi
+T1280	obj 10401 10411	རྩྭ་ཐང་_nn
+T1281	atr 10390 10400	རང་ཡུལ་_nn
+T1282	adv 10381 10389	ཕྱིར་_dl
+T1283	adv 10367 10373	གམ་_nf
+T1284	atr 10350 10359	ཕུར་ཁོ_nr
+T1285	atr 10343 10349	བུ་_nn
+R1149	APP Arg1:T1284 Arg2:T1285	
+R1150	gi Arg1:T1284 Arg2:T420	
+R1151	ATT Arg1:T1283 Arg2:T1284	
+R1152	cj Arg1:T1283 Arg2:T421	
+R1153	ADV Arg1:T1279 Arg2:T1283	
+R1154	APP Arg1:T1280 Arg2:T1281	
+R1156	ls Arg1:T1280 Arg2:T422	
+R1157	IOB Arg1:T1279 Arg2:T1280	
+R1158	lh Arg1:T1279 Arg2:T423	
+R1159	ADV Arg1:T1084 Arg2:T1279	
+R1160	TEN Arg1:T1084 Arg2:T1085	
+R1161	PUS Arg1:T1084 Arg2:T425	
+R1162	cb Arg1:T234 Arg2:T1256	
+T1286	pre 10958 10969	འགྱུར་བ་_vi
+T1287	obj 10942 10950	ས་ནག་_nn
+T1288	obj 10925 10934	བྱེ་ས་_nn
+T1289	sub 10914 10924	རྩྭ་ཐང་_nn
+R1163	CMP Arg1:T1286 Arg2:T1287	
+R1164	ld Arg1:T1287 Arg2:T445	
+R1165	COO Arg1:T1287 Arg2:T1288	
+R1166	cd Arg1:T1288 Arg2:T444	
+R1167	SBV Arg1:T1286 Arg2:T1289	
+R1168	RAD Arg1:T1286 Arg2:T1122	
+R954	TPS Arg1:T1125 Arg2:T1286	
+T1290	adv 11119 11126	ཅུང་_dc
+R1169	cn Arg1:T1144 Arg2:T450	
+R1170	VV Arg1:T1143 Arg2:T1144	
+R1171	ADV Arg1:T1144 Arg2:T1290	
+R1172	bo Arg1:T1135 Arg2:T449	
+R1173	gi Arg1:T1143 Arg2:T451	
+R1174	ATT Arg1:T1136 Arg2:T1143	
+T481	atr 11738 11753	ཁྲོད་_dw ནས་_cq
+R1018	RAD Arg1:T1169 Arg2:T481	
+R1050	VOB Arg1:T4 Arg2:T1192	
+R12	gi Arg1:T1188 Arg2:T1191	
+R20	ATT Arg1:T1192 Arg2:T1188	
+R1049	ATT Arg1:T14 Arg2:T1205	
+R1065	gi Arg1:T1205 Arg2:T1207	
+T498	sub 481 496	འཚོལ་རྟོག་པ་_nn
+T1291	atr 468 480	གཏེར་རྫས་_nn
+R29	ATT Arg1:T498 Arg2:T1291	
+R30	SBV Arg1:T13 Arg2:T498	
+R1175	RAD Arg1:T498 Arg2:T504	
+R84	ci Arg1:T538 Arg2:T41	
+R1176	ADV Arg1:T42 Arg2:T540	
+T573	pre 1588 1596	ཡོད་ས_nn
+T574	obj 1576 1587	མིང་བྱང་_nn
+T1292	atr 1563 1575	འབབ་ཚིགས་_nn
+T1293	atr 1538 1555	ཨང་_nn ༣༤_mj པ_hz
+T1294	atr 1513 1537	སྤྱི་སྤྱོད་རླངས་འཁོར་_nn
+R128	ATT Arg1:T574 Arg2:T1292	
+R129	ATT Arg1:T574 Arg2:T1294	
+R130	ATT Arg1:T1294 Arg2:T1293	
+R131	gi Arg1:T1293 Arg2:T59	
+R1177	VOB Arg1:T573 Arg2:T574	
+R1178	ADV Arg1:T565 Arg2:T573	
+R1179	lt Arg1:T573 Arg2:T60	
+R1040	ATT Arg1:T1181 Arg2:T1184	
+R1041	ATT Arg1:T1181 Arg2:T1185	
+T591	atr 2078 2088	ག་གེ་མོ_rz
+T1295	atr 2064 2077	གྲོང་ཁྱེར་_nn
+R161	APP Arg1:T1295 Arg2:T591	
+R162	ATT Arg1:T82 Arg2:T1295	
+R1180	ATT Arg1:T1295 Arg2:T598	
+R165	RAD Arg1:T590 Arg2:T593	
+R181	gi Arg1:T604 Arg2:T87	
+R1038	lt Arg1:T1182 Arg2:T1183	
+R170	gi Arg1:T591 Arg2:T81	
+T637	pre 2762 2786	དོགས་_nn མི་_df བདེ་བ_as
+T1296	gi 2787 2793	འི་_gi
+T1297	atr 2794 2800	ངང་_dx
+R225	RAD Arg1:T637 Arg2:T1297	
+R1181	gi Arg1:T637 Arg2:T1296	
+R1182	ADV Arg1:T634 Arg2:T637	
+R238	ATT Arg1:T636 Arg2:T633	
+R1183	VOB Arg1:T634 Arg2:T636	
+R230	ATT Arg1:T639 Arg2:T638	
+R231	ADV Arg1:T641 Arg2:T639	
+R1184	cu Arg1:T671 Arg2:T129	
+T677	atr 3430 3441	ལས་ཁུངས་_nn
+T1298	atr 3442 3447	དེ_rz
+R287	APP Arg1:T677 Arg2:T1298	
+R288	ATT Arg1:T676 Arg2:T677	
+R1185	gi Arg1:T1298 Arg2:T133	
+R305	APP Arg1:T688 Arg2:T691	
+R307	RAD Arg1:T688 Arg2:T689	
+R309	ATT Arg1:T686 Arg2:T688	
+T145	adv 3736 3745	ཁ་གཏད་_nf
+T1299	lt 3746 3752	དུ་_lt
+T1300	pre 3753 3761	ཡོད་པ_vc
+R316	ADV Arg1:T1300 Arg2:T145	
+R317	lt Arg1:T145 Arg2:T1299	
+R1186	gi Arg1:T1300 Arg2:T146	
+R315	ATT Arg1:T695 Arg2:T1300	
+R311	ADV Arg1:T696 Arg2:T684	
+R1187	SBV Arg1:T684 Arg2:T686	
+R1188	cl Arg1:T716 Arg2:T156	
+R367	ATT Arg1:T724 Arg2:T726	
+T784	adv 5392 5402	ནགས་ཚལ་_nn
+T1301	fg 5403 5411	བཞིན་_ub
+R456	ADV Arg1:T201 Arg2:T784	
+R1189	RAD Arg1:T784 Arg2:T1301	
+T804	adv 5555 5563	སེམས་_nn
+T1302	gi 5548 5554	འི་_gi
+T1303	atr 5543 5547	ང_rr
+R472	ATT Arg1:T804 Arg2:T1303	
+R473	gi Arg1:T1303 Arg2:T1302	
+R1190	lt Arg1:T804 Arg2:T213	
+R1191	ADV Arg1:T800 Arg2:T804	
+R526	SBV Arg1:T237 Arg2:T235	
+R529	CMP Arg1:T237 Arg2:T834	
+R531	VV Arg1:T835 Arg2:T237	
+R544	ATT Arg1:T840 Arg2:T839	
+R545	gi Arg1:T839 Arg2:T245	
+R1192	ADV Arg1:T847 Arg2:T840	
+R538	CMP Arg1:T845 Arg2:T846	
+R539	SBV Arg1:T845 Arg2:T841	
+R540	IOB Arg1:T845 Arg2:T842	
+R548	VV Arg1:T847 Arg2:T845	
+R587	ADV Arg1:T863 Arg2:T865	
+R592	COO Arg1:T874 Arg2:T875	
+R608	ATT Arg1:T878 Arg2:T884	
+T893	adv 7079 7091	འཛམ་གླིང་_nn
+T1304	adv 7068 7078	དེང་སང་_nt
+R1193	lt Arg1:T893 Arg2:T894	
+R618	ADV Arg1:T892 Arg2:T893	
+R612	ADV Arg1:T892 Arg2:T1304	
+R626	SBV Arg1:T899 Arg2:T900	
+R632	VV Arg1:T897 Arg2:T899	
+R633	CMP Arg1:T897 Arg2:T895	
+T905	fg 7314 7322	བཞིན་_ub
+T1305	adv 7303 7313	ཁ་ཆེམས་_nn
+R637	ADV Arg1:T901 Arg2:T1305	
+R1194	RAD Arg1:T1305 Arg2:T905	
+R664	RAD Arg1:T927 Arg2:T301	
+T306	pre 7729 7738	ཕེབས་པ_vi
+T1306	obj 7714 7721	བོད་_ne
+T1307	ls 7722 7728	དུ་_ls
+T1308	sub 7700 7713	ཇོ་བོ་རྗེ་_nr
+R676	SBV Arg1:T306 Arg2:T1308	
+R677	IOB Arg1:T306 Arg2:T1306	
+R681	ls Arg1:T1306 Arg2:T1307	
+R1195	gi Arg1:T306 Arg2:T307	
+R1196	RAD Arg1:T306 Arg2:T929	
+R1197	ADV Arg1:T933 Arg2:T306	
+R1198	lt Arg1:T937 Arg2:T310	
+R715	SBV Arg1:T958 Arg2:T960	
+T966	pre 8360 8368	སོང་བ_vi
+T1309	df 8354 8359	མ་_df
+T1310	adv 8342 8353	ཡུན་རིང་_nt
+R723	VV Arg1:T966 Arg2:T331	
+R725	ADV Arg1:T966 Arg2:T1310	
+R732	df Arg1:T966 Arg2:T1309	
+R1199	ADV Arg1:T963 Arg2:T966	
+R1200	cl Arg1:T966 Arg2:T332	
+R1201	bo Arg1:T970 Arg2:T335	
+R1202	PUS Arg1:T988 Arg2:T349	
+T1015	pre 9168 9181	སེམས་སྡུག་_nn
+T1311	com 9182 9189	བྱས་_vt
+R795	SBV Arg1:T1015 Arg2:T1013	
+R796	CMP Arg1:T1015 Arg2:T1311	
+R797	cn Arg1:T1311 Arg2:T367	
+R1203	VV Arg1:T1016 Arg2:T1015	
+R1204	lt Arg1:T1056 Arg2:T391	
+R1142	COO Arg1:T1276 Arg2:T1275	
+T403	adv 10005 10012	ཉིན་_nt
+T1312	atr 10013 10018	འག_mg
+T1313	gi 10019 10025	འི་_gi
+T1314	atr 10026 10034	རྗེས་_nt
+R876	ADV Arg1:T1070 Arg2:T403	
+R877	QUN Arg1:T403 Arg2:T1312	
+R1205	RAD Arg1:T403 Arg2:T1314	
+R1206	gi Arg1:T1312 Arg2:T1313	
+R1207	lh Arg1:T1314 Arg2:T404	
+R1155	ADV Arg1:T1279 Arg2:T1282	
+R917	APP Arg1:T1109 Arg2:T1110	
+T456	sub 11266 11275	ཡི་གེ་_nn
+T1315	atr 11246 11257	དབུ་མེད་_nn
+T1316	gi 11258 11265	ཀྱི་_gi
+R977	TPC Arg1:T1147 Arg2:T456	
+R981	ci Arg1:T456 Arg2:T457	
+R1208	ATT Arg1:T456 Arg2:T1315	
+R1209	gi Arg1:T1315 Arg2:T1316	
+R1006	ATT Arg1:T1155 Arg2:T1163	
+R1009	ATT Arg1:T1163 Arg2:T1161	
+T475	obj 11647 11658	བྲག་ཕུག་_nn
+T1317	atr 11618 11630	སངས་རྒྱས་_nn
+T1318	atr 11631 11639	སྟོང་_mj
+T1319	gi 11640 11646	གི་_gi
+R1014	ATT Arg1:T475 Arg2:T1317	
+R1015	QUN Arg1:T1317 Arg2:T1318	
+R1210	gi Arg1:T1318 Arg2:T1319	
+R1211	VOB Arg1:T1165 Arg2:T475	
+R1212	ce Arg1:T475 Arg2:T476	
+R1213	ls Arg1:T1221 Arg2:T1226	
+T497	adv 456 461	ལོ_nt
+T1320	atr 446 455	ན་ནིང་_nt
+R21	ADV Arg1:T13 Arg2:T497	
+R562	ATT Arg1:T497 Arg2:T1320	
+R1067	lh Arg1:T497 Arg2:T17	
+R70	PUS Arg1:T518 Arg2:T36	
+R80	PUS Arg1:T529 Arg2:T40	
+R1215	gi Arg1:T615 Arg2:T95	
+R1214	LAD Arg1:T854 Arg2:T862	
+R1216	gi Arg1:T936 Arg2:T311	
+R1217	ls Arg1:T986 Arg2:T346	
+R1218	gi Arg1:T993 Arg2:T353	
+R1219	RAD Arg1:T1002 Arg2:T1003	
+R1220	PUS Arg1:T1004 Arg2:T361	
