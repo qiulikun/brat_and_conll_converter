@@ -1,0 +1,14 @@
+README.md
+setup.py
+brat2conll/__init__.py
+brat2conll/cli.py
+brat2conll/converter.py
+brat2conllconverter.egg-info/PKG-INFO
+brat2conllconverter.egg-info/SOURCES.txt
+brat2conllconverter.egg-info/dependency_links.txt
+brat2conllconverter.egg-info/entry_points.txt
+brat2conllconverter.egg-info/not-zip-safe
+brat2conllconverter.egg-info/requires.txt
+brat2conllconverter.egg-info/top_level.txt
+conll2brat/__init__.py
+conll2brat/conll092brat.py

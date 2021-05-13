@@ -1,0 +1,88 @@
+Info: Processing data/tibetan/yzannotation1/10.ann.
+Info: Reading file data/tibetan/yzannotation1/10.ann.
+异常：第2个句子	ཨང་_ee	T339
+异常：第4个句子	དེ_rz	T348
+异常：第14个句子	དུས་ཚོད་_nt	T412
+异常：第15个句子	ལས་_cq	T38
+异常：第41个句子	ངལ་གསོ་_nv	T741
+异常：第43个句子	ལས་_vt	T751
+异常：第43个句子	མེད་པ་_vj	T755
+异常：第47个句子	།_ww	T137
+异常：第48个句子	རང་_rr	T774
+异常：第49个句子	ལས་_cq	T145
+异常：第51个句子	ཡོང་_vi	T892
+异常：第60个句子	སྡེ་དཔོན་_nn	T640
+异常：第101个句子	སློབ་གསེང་_nn	T456
+Info: Processing data/tibetan/yzannotation1/9.ann.
+Info: Reading file data/tibetan/yzannotation1/9.ann.
+异常：第12个句子	རང་རང་_rr	T794
+异常：第14个句子	ཏེ་_cn	T47
+异常：第22个句子	ནི་_ci	T74
+异常：第23个句子	འི་_gi	T75
+异常：第24个句子	ཀྱི་_gi	T76
+异常：第25个句子	དང་_cd	T77
+异常：第26个句子	།_ww	T78
+异常：第30个句子	།_ww	T93
+异常：第32个句子	ཐོག་_nf	T534
+异常：第36个句子	མི་_df	T105
+异常：第37个句子	ན་_cv	T106
+异常：第37个句子	གཏུབ་_vt	T564
+异常：第37个句子	ན་_cv	T107
+异常：第37个句子	ལག་_nn	T565
+异常：第87个句子	ང_rr	T457
+异常：第110个句子	ད་དུང་_fg	T306
+Info: Processing data/tibetan/yzannotation1/2.ann.
+Info: Reading file data/tibetan/yzannotation1/2.ann.
+异常：第84个句子	འི་_gi	T251
+Info: Processing data/tibetan/yzannotation1/3.ann.
+Info: Reading file data/tibetan/yzannotation1/3.ann.
+Info: Processing data/tibetan/yzannotation1/1.ann.
+Info: Reading file data/tibetan/yzannotation1/1.ann.
+Info: Processing data/tibetan/yzannotation1/4.ann.
+Info: Reading file data/tibetan/yzannotation1/4.ann.
+异常：第84个句子	ར་_ls	T54
+Info: Processing data/tibetan/yzannotation1/5.ann.
+Info: Reading file data/tibetan/yzannotation1/5.ann.
+异常：第19个句子	ལྟོགས་པ	T643
+异常：第27个句子	ནི་_ci	T12
+异常：第53个句子	དབོ་ལུག་_nn	T343
+异常：第53个句子	ཏུ་_ld	T24
+异常：第63个句子	ཅི་ཞིག་	T598
+异常：第87个句子	ར་_lh	T41
+异常：第134个句子	འབོལ་ཁྲི	T576
+异常：第201个句子	བཤོས་པ	T521
+异常：第207个句子	བྱིན་པ་	T512
+异常：第353个句子	_ld	T597
+异常：第374个句子	ཚང་མ་	T499
+异常：第427个句子	ལ་_ls	T222
+异常：第499个句子	ང	T436
+异常：第500个句子	ལ་_ls	T262
+异常：第500个句子	བརྩམས་སྒྲུང་	T435
+异常：第501个句子	སྐོར་_fg	T263
+异常：第501个句子	གྱི་_gi	T264
+异常：第501个句子	དཔེ་ཆ་	T433
+异常：第502个句子	ཞིག་	T434
+异常：第505个句子	།_ww	T265
+异常：第512个句子	ང	T413
+异常：第513个句子	འི་_gi	T270
+异常：第516个句子	དུ་_ld	T272
+异常：第528个句子	ར་_ld	T278
+异常：第529个句子	ར་_ls	T279
+异常：第546个句子	མི་_df	T294
+异常：第550个句子	དང་_cd	T296
+异常：第573个句子	ང	T392
+异常：第586个句子	མི་	T326
+异常：第587个句子	ཚུལ་འཆོས་ཅན་_nn	T438
+异常：第589个句子	།_ww	T314
+异常：第600个句子	ལ་_ls	T320
+Info: Processing data/tibetan/yzannotation1/6.ann.
+Info: Reading file data/tibetan/yzannotation1/6.ann.
+异常：第11个句子	འགྲིམ་པ_vi	T337
+异常：第55个句子	ཞིག་_rz	T841
+异常：第86个句子	གསར་བ་_as	T701
+异常：第86个句子	གང་མང་_as	T702
+异常：第86个句子	ཞིག་_rz	T703
+异常：第95个句子	ཇེ་ཉུང་_dc	T825
+异常：第104个句子	ཁ་ཏོན་དགེ་སྒྲུབ་_nn	T783
+异常：第105个句子	སྒོར་མོ་_nn	T791
+异常：第110个句子	།_ww	T294
