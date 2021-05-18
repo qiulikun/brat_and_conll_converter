@@ -280,10 +280,10 @@ def process(fn, options=None):
     processed = []
 
     for i, sentence in enumerate(sentences):
-        print('i=',i)
+        # print('i=',i)
         token, dependency = process_sentence(sentence, fieldmap)
         processed.append((token, dependency))
-        print('len(processed)=',len(processed))
+        # print('len(processed)=',len(processed))
 
         # limit sentences per output "document"
         if MAX_DOC_SENTENCES and len(processed) >= MAX_DOC_SENTENCES:
