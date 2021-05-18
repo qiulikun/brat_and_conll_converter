@@ -6,6 +6,8 @@
 
 关于brat标注工具及其格式可以参见[here](http://brat.nlplab.org/standoff.html).
 
+使用时请安装python3.7。（请注意，brat的运行需要python2.7，两者需要运行在不同的虚拟环境中。）
+
 
 ## Using the tool
 
