@@ -18,7 +18,7 @@
 之后，基于git下载软件包
 
 ```
-git clone https://github.com/cdli-gh/brat_to_cdli_conll_converter.git
+git clone https://github.com/qiulikun/brat_and_conll_converter.git
 cd brat_to_cdli_conll_converter
 pip install .
 ```
