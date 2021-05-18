@@ -111,6 +111,7 @@ def output(infn, docnum, sentences):
             form, lemma, pos, feat = tokens[id_]
 
             if id_ == head_word_id:
+                # 加一个"hed"前缀，标识其为根结点
                 pos = 'hed'+pos
 
             if prev_form is not None:
@@ -193,7 +194,7 @@ def resolve_format(sentences, options):
 
     # CoNLL'09 field structure, using gold instead of predicted (e.g.
     # POS instead of PPOS).
-    print(sentences[1][0])
+    print("示例：",sentences[1][0])
     if len(sentences[1][0]) == 14:
         fields[F_ID] = 0
         fields[F_FORM] = 1
@@ -279,14 +280,19 @@ def process(fn, options=None):
     processed = []
 
     for i, sentence in enumerate(sentences):
+        print('i=',i)
         token, dependency = process_sentence(sentence, fieldmap)
         processed.append((token, dependency))
+        print('len(processed)=',len(processed))
 
         # limit sentences per output "document"
         if MAX_DOC_SENTENCES and len(processed) >= MAX_DOC_SENTENCES:
             output(fn, docnum, processed)
             processed = []
             docnum += 1
+
+    if len(processed) > 0:
+        output(fn, docnum, processed)
 
 
 def main(argv):

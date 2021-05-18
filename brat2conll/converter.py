@@ -147,12 +147,18 @@ class BratToCoNLLConverter:
                 pos = ''
                 if len(tok) >= 7:
                     # print(tok)
-                    if not tok[1].endswith('_'):
+                    if not tok[1].endswith('_') and '_' in tok[1]:
+                        # 西北民大第一版brat格式，词和词性混在一起
                         pos = tok[1][tok[1].rfind('_')+1:]
+                    else:
+                        # 第二版格式，词性单列，在根结点的词性前面加上了"hed"
+                        pos = tok[3]
+                    # print(pos)
                     if pos == 'hed':
                         pos = tok[1][tok[1].rfind('_')+1:]
                     elif pos.startswith('hed'):
-                        pos = pos[len('hed')]
+                        # print(pos)
+                        pos = pos[len('hed'):]
 
                 if len(tok)>1 and '_' in tok[1]:
                     tok[1] = tok[1][0:tok[1].rfind('_')]
