@@ -19,7 +19,7 @@
 
 ```
 git clone https://github.com/qiulikun/brat_and_conll_converter.git
-cd brat_to_cdli_conll_converter
+cd brat_and_conll_converter
 pip install .
 ```
 
