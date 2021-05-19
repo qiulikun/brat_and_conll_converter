@@ -2,6 +2,7 @@ import os
 import click
 import sys
 
+OUTPUT_ENCODING = "UTF-8"
 
 def combine_path(input_path, output_file_name, file_name_suffix):
     if os.path.isdir(input_path):
@@ -16,7 +17,7 @@ def combine_path(input_path, output_file_name, file_name_suffix):
 
 def combine_file(input_file_name, output_file_name):
 
-    with open(input_file_name, 'r') as input_file, open(output_file_name, 'a') as output_file:
+    with open(input_file_name, 'r', encoding=OUTPUT_ENCODING) as input_file, open(output_file_name, 'a', encoding=OUTPUT_ENCODING) as output_file:
         print('combining '+input_file_name)
         for each_line in input_file:
             if not each_line.startswith('#'):
