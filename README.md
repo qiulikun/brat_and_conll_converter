@@ -15,11 +15,18 @@
 
 首先，需要安装pip和git [here](https://pip.pypa.io/en/stable/installing/).
 
-之后，基于git下载软件包
+首次安装时，使用git clone命令下载软件包并安装 
 
 ```
 git clone https://github.com/qiulikun/brat_and_conll_converter.git
 cd brat_and_conll_converter
+pip install .
+```
+
+已安装的情况下，如果需要更新代码，可以使用如下命令(请确保当前终端位于brat_and_conll_converter目录下)重新拉取代码并安装：
+
+```
+git pull origin
 pip install .
 ```
 
@@ -68,4 +75,4 @@ If you don't use any arguments, it will prompt for the input file path as follow
 $ brat2conll
 Input path: data
 Info: Converting the files  [####################################]  100%
-```# brat-conll-converter
+```
