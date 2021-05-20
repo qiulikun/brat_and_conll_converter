@@ -11,7 +11,7 @@
 
 ## Using the tool
 
-### Installation
+### Installation/安装
 
 首先，需要安装pip和git [here](https://pip.pypa.io/en/stable/installing/).
 
@@ -23,7 +23,7 @@ cd brat_and_conll_converter
 pip install .
 ```
 
-### Execution
+### Execution/执行，brat向conll的转换
 
 从brat向conll的转换，可以基于以下命令:
 
@@ -44,12 +44,16 @@ brat2conll -i data/input_file_name.ann
 brat2conll -i data/tibetan/lmc -v
 ```
 
-如果需要将多个文件合并，可以使用以下命令：
+### Execution/执行，文件合并
+
+如果需要将多个文件合并，可以使用以下命令(data/tibetan/lmc为待合并的文件所处的目录 .conll为待合并的文件的扩展名/文件名后缀 output/lmc.conll为输出文件名)，将目录下以.conll为扩展名的文件并输入到一个文件中：
 ```
 python utils/combine_files.py data/tibetan/lmc .conll output/lmc.conll
 ```
 
-如果需要将一个文件中conll格式的数据（通常是自动句法分析器的输出结果）转换到brat格式（以供放到brat环境中进行人工标注），可以使用以下命令：
+### Execution/执行，从conll格式到brat格式的转换
+
+如果需要将一个文件中conll格式的数据（通常是自动句法分析器的输出结果）转换到brat格式（以供放到brat环境中进行人工标注），可以使用以下命令(output/brat为输出的brat格式文件将要存放的目录， output/lmc.conll为conll格式的文件名即输入文件名)：
 ```
 python conll2brat/conll092brat.py -o output/brat output/lmc.conll
 ```
